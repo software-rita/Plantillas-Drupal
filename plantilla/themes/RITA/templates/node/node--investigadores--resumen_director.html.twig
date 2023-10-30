@@ -1,0 +1,24 @@
+{{ attach_library('RITA/about-styling') }}
+<div class="tarjeta_equipo">
+    <div class="card">
+        <div class="circle">
+            {% if node. field_imagen_investigador.value %}
+            <img src="{{file_url(node.field_imagen_investigador.entity.fileuri)}}" class="img-fluid" alt="Director">
+            {% else %}
+            <img src="{{ base_path ~ directory }}/images/investigadores.png" class="img-fluid" alt="Director">
+            {% endif %}
+        </div>
+        <div class="divider"></div>
+        <p class="name">{{label}}</p>
+        <div class="divider"></div>
+        <p class="description">{{node.field_descripcion_investigador.value}}</p>
+        <div class="contact">
+            {% if node.field_cvlac.0.url %}
+            <a class="btn-team btn btn-more" target=”_blank” href="{{node.field_cvlac.0.url }}">cvLac</a>
+            {% endif %}
+            {% if node.field_linkedin.0.url %}
+            <a class="btn-team linkedin btn btn-more" target=”_blank” href="{{node.field_linkedin.0.url }}">LinkedIn</a>
+            {% endif %}
+        </div>
+    </div>
+</div>

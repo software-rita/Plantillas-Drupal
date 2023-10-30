@@ -1,0 +1,11 @@
+{{ attach_library('RITA/about-styling') }}
+<section id="team" class="tab-pane">
+    <div class="section-title">
+        <h2 data-aos="fade-down">Comité de Investigación</h2>
+        <p>{{node.field_descripcion_investigador.value}}</p>
+        <h3 class="tituloTeam" data-aos="zoom-in-down">Coordinador</h3>
+        {{content.field_director.0}}
+        {{ drupal_view('carrusel_de_integrantes', 'carrusel_investigadores') }}
+    </div>
+</section>
+{{ drupal_view('modal_de_integrantes', 'modal_investigadores') }}

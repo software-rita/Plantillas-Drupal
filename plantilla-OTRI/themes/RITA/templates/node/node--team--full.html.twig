@@ -1,0 +1,137 @@
+{{ attach_library('RITA/about-styling') }}
+<section id="team" class="tab-pane">
+    <div class="section-title">
+        <h2 data-aos="fade-down">Comité de Investigación</h2>
+        <p>{{node.field_descripcion_investigador.value}}</p>
+        <h3 class="tituloTeam" data-aos="zoom-in-down">Coordinador</h3>
+        {{content.field_director.0}}
+        {{ drupal_view('carrusel_de_integrantes', 'carrusel_investigadores') }}
+        <h3 class="tituloTeam" data-aos="zoom-in-down" style="display: none;">Equipo TI RITA</h3>
+        <div class="owl-carousel members-carousel members" style="display: none;">
+            <div class="member-item" data-toggle="modal" data-target="#memberModalE1">
+                <h3>Desarrolladora</h3>
+                <img src="{{ base_path ~ directory }}/images/Equipo/Ana_Garcia.png" class="img-fluid" alt="">
+                <p>Ana María García Acosta</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModalE2">
+                <h3>Desarrolladora</h3>
+                <img src="{{ base_path ~ directory }}/images/Equipo/Liliana_Herrera.png" class="img-fluid" alt="">
+                <p>Luz Liliana Herrera Polo</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModalE3">
+                <h3>Servicios TI</h3>
+                <img src="{{ base_path ~ directory }}/images/Equipo/Jhonnatan_Daza.png" class="img-fluid" alt="">
+                <p>Jhonnatan Leonardo Daza Ibarra</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModaE4">
+                <h3>Apoyo TI</h3>
+                <img src="{{ base_path ~ directory }}/images/Equipo/William-Rueda.png" class="img-fluid" alt="">
+                <p>William Rueda</p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ drupal_view('modal_de_integrantes', 'modal_investigadores') }}
+<div class="modal fade" id="memberModalE1" tabindex="-1" role="dialog" aria-labelledby="memberModalE1Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-header text-center">
+                <img src="{{ base_path ~ directory }}/images/Equipo/Ana_Garcia.png" class="img-fluid" alt="">
+                <div class="modal-title">
+                    <h3 id="memberModalE1Label">Desarrolladora</h3>
+                    <h5 id="memberModalE1Label">Ana María García Acosta</h5>
+                </div>
+            </div>
+            <div class="modal-body">
+                <p class="text-justify">Ingeniera de Sistemas de la Universidad Distrital Francisco José de Caldas, con
+                    experiencia en desarrollo de software.</p>
+            </div>
+            <div class="modal-footer">
+                <a class="btn-team btn btn-more" target=”_blank” href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002012918">cvLac</a>
+                <a class="btn-team linkedin btn btn-more" target=”_blank” href="https://www.linkedin.com/in/ana-garcia8/">LinkedIn</a>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="memberModalE2" tabindex="-1" role="dialog" aria-labelledby="memberModalE2Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-header text-center">
+                <img src="{{ base_path ~ directory }}/images/Equipo/Liliana_Herrera.png" class="img-fluid" alt="">
+                <div class="modal-title">
+                    <h3 id="memberModalE2Label">Desarrolladora</h3>
+                    <h5 id="memberModalE2Label">Luz Liliana Herrera Polo</h5>
+                </div>
+            </div>
+            <div class="modal-body">
+                <p class="text-justify">Ingeniería de Sistemas de la Universidad Distrital Francisco José de Caldas, con
+                    experiencia en el diseño y desarrollo de software.</p>
+            </div>
+            <div class="modal-footer">
+                <a class="btn-team btn btn-more" target=”_blank” href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002012899">cvLac</a>
+                <a class="btn-team linkedin btn btn-more" target=”_blank” href="/#">LinkedIn</a>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="memberModalE3" tabindex="-1" role="dialog" aria-labelledby="memberModalE3Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-header text-center">
+                <img src="{{ base_path ~ directory }}/images/Equipo/Jhonnatan_Daza.png" class="img-fluid" alt="">
+                <div class="modal-title">
+                    <h3 id="memberModalE3Label">Jhonnatan Leonardo Daza Ibarra</h3>
+                    <h5 id="memberModalE3Label">Servicios TI</h5>
+                </div>
+            </div>
+            <div class="modal-body">
+                <p class="text-justify">Ingeniero de Sistemas de la Universidad Distrital Francisco José de caldas, con
+                    conocimientos en servidores.</p>
+            </div>
+            <div class="modal-footer">
+                <a class="btn-team btn btn-more" target=”_blank” href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002045535">cvLac</a>
+                <a class="btn-team linkedin btn btn-more" target=”_blank” href="https://www.linkedin.com/in/jhonnatan-daza-5962a0290/">LinkedIn</a>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="memberModalE4" tabindex="-1" role="dialog" aria-labelledby="memberModalE4Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-header text-center">
+                <img src="{{ base_path ~ directory }}/images/Equipo/William-Rueda.png" class="img-fluid" alt="">
+                <div class="modal-title">
+                    <h3 id="memberModalE4Label">William Rueda</h3>
+                    <h5 id="memberModalE4Label">Apoyo TI</h5>
+                </div>
+            </div>
+            <div class="modal-body">
+                <p class="text-justify">Ingeniero Electrónico de la Universidad Distrital Francisco José de caldas, con conocimiento en redes e IoT.</p>
+            </div>
+            <div class="modal-footer">
+                <a class="btn-team btn btn-more" target=”_blank” href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002089521">cvLac</a>
+                <a class="btn-team linkedin btn btn-more" target=”_blank” href="https://www.linkedin.com/in/willianrueda/">LinkedIn</a>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>

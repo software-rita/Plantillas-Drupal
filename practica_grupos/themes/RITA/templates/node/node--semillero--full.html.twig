@@ -1,0 +1,11 @@
+<div class="accordion" tab-name="semillero{{ node.id }}" style="box-shadow: none;border: none;">
+    <div class="accordion_head">
+        <div class="icon-box icon-box-principal"><i class="icofont-education"></i></div>
+        <h6>{{label}}</h6>
+    </div>
+    <div class="accordion_body">
+        <p>{{node.field_descripcion_investigador.value}}</p>
+        <p class="semillero-boton"><a target="_blank" href="{{file_url(node.field_pdf_semillero.entity.uri.value)}}">Da click aquí
+            </a>para ver el archivo.</p>
+    </div>
+</div>

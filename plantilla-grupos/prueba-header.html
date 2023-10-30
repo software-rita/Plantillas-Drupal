@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cambio de Fondo de Header con Colores Variables</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        :root {
+            --fondo-default-color: #333;
+        }
+
+        header {
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            transition: background-color 0.5s;
+            background-color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <header id="header-principal">
+        <h1>Mi Sitio Web</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#servicios">Servicios</a></li>
+            <li><a href="#acerca">Acerca</a></li>
+            <li><a href="proyectos.html" target="_blank">Proyectos</a></li>
+        </ul>
+    </nav>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(window).on("hashchange", function () {
+                var hash = window.location.hash;
+                var $header = $("#header-principal");
+
+                if (hash === "#inicio") {
+                    $header.css("background-color", "yellow");
+                } else if (hash === "#acerca") {
+                    $header.css("background-color", "var(--fondo-default-color)");
+                }
+                 else if (hash === "/proyectos.html"){
+                    $header.css("background-color", "pink");
+                }
+            });
+
+            $(window).trigger("hashchange");
+        });
+    </script>
+</body>
+
+</html>

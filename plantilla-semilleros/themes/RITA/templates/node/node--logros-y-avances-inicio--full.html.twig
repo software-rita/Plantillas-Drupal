@@ -1,0 +1,47 @@
+{{ attach_library('RITA/principal-styling') }}
+<!-- ======= "LOGROS" Section ======= -->
+<section id="acknowledgment" class="acknowledgment">
+    <div class="container">
+        <div class="section-title" data-aos="fade-up">
+            <h2>Logros y Avances</h2>
+            <p>{{node.field_desc_logros.value}}</p>
+        </div>
+        <section class="logros">
+            <div class="card-deck" data-aos="fade-up">
+                <div class="card">
+                    <div class="card-img-top" style="background-image: url('{{file_url(node.field_img_reconocimiento.entity.fileuri)}}');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Reconocimiento</h5>
+                        <hr>
+                        <p class="card-text">{{node.field_desc_reconocimiento.value}}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href='{{node.field_url_gruplac.value}}' class="card-link" target="_blank">Ver más</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img-top" style="background-image: url('{{file_url(node.field_img_publicaciones.entity.fileuri)}}');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Publicaciones</h5>
+                        <hr>
+                        <p class="card-text">{{node.field_desc_publicaciones.value}}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{url('<front>') }}/Publicaciones" class="card-link">Ver más</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img-top" style="background-image: url('{{file_url(node.field_img_proyectos.entity.fileuri)}}');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Proyectos</h5>
+                        <hr>
+                        <p class="card-text">{{node.field_desc_proyectos.value}}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{url('<front>') }}/Proyectos" class="card-link">Ver más</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</section>

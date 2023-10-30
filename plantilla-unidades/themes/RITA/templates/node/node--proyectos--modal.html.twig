@@ -1,0 +1,32 @@
+{{ attach_library('RITA/principal-styling') }}
+<div class="modal fade" id="convocatoriaModal{{ node.id }}" tabindex="-1" role="dialog"
+    aria-labelledby="convocatoriaModal{{ node.id }}Label" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-header text-center">
+                <div class="modal-title">
+                    <h3 id="convocatoriaModal{{ node.id }}Label">{{label}}</h3>
+                </div>
+            </div>
+            <div class="modal-body">
+                <p class="text-justify">{{node.field_descripcion_proyecto.value}}</p>
+                    <h4>Dirigido a:</h4>
+                    <p class="text-justify">{{node.field_dirigido.value}}</p>
+                    <h4>Plazo de inscripción</h4>
+                    <p>{{node.field_fecha_finalizacion.value}}</p>
+                    <h4>Fecha de realización</h4>
+                    <p>{{node.field_fecha_convocatoria.value}}</p>
+            </div>
+            <div class="modal-footer">
+                {% if node.field_enlace_inscripcion.0.url %}
+                <a class="btn btn-more" target=”_blank”
+                    href="{{node.field_enlace_inscripcion.0.url}}">Inscripción</a>
+                {% endif %}
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>

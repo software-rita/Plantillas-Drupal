@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarjeta de Presentación</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .tarjeta_equipo .card {
+            position: relative;
+            border-color: #007bff;
+            color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+            width: 300px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            overflow: hidden;
+        }
+
+        .tarjeta_equipo .card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, #007bff, #00ffcc);
+            opacity: 0.8;
+            z-index: -1;
+            transform: scale(1.2);
+        }
+
+        .tarjeta_equipo .card:hover {
+            transform: scale(1.05);
+            background-color: #007bff;
+        }
+
+        .tarjeta_equipo .circle {
+            width: 150px;
+            height: 150px;
+            background-color: #ffffff;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 5px solid #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .tarjeta_equipo .circle img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 3px solid #ffffff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .tarjeta_equipo .name {
+            font-size: 1.8em;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .tarjeta_equipo .title {
+            font-size: 1.2em;
+            margin: 5px 0;
+        }
+
+        .tarjeta_equipo .description {
+            margin: 15px 0;
+            font-size: 1.1em;
+        }
+
+        .tarjeta_equipo .divider {
+            width: 100%;
+            height: 2px;
+            background-color: #ffffff;
+            margin: 15px 0;
+        }
+
+        .tarjeta_equipo .contact {
+            margin-top: 20px;
+        }
+
+        .tarjeta_equipo .contact a {
+            text-decoration: none;
+            color: #ffffff;
+            margin: 0 10px;
+            font-size: 1.2em;
+            border: 2px solid #ffffff;
+            padding: 5px 15px;
+            border-radius: 25px;
+            transition: background-color 0.3s ease;
+        }
+
+        .tarjeta_equipo .contact a:hover {
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <section class="tarjeta_equipo">
+        <div class="card">
+            <div class="circle">
+                <img src="tu-imagen.jpg" alt="Tu Nombre">
+            </div>
+            <h1 class="name">Tu Nombre</h1>
+            <div class="divider"></div>
+            <p class="title">Tu Título</p>
+            <div class="divider"></div>
+            <p class="description">Descripción de ti mismo o tu trabajo. Este campo se ajustará dinámicamente según la cantidad de contenido que tengas para mostrar. Sé creativo y destaca tus logros.</p>
+            <div class="contact">
+                <a href="mailto:tu@email.com">Email</a>
+                <a href="https://www.tusitio.com" target="_blank">Sitio Web</a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+
+
+
+
+
+

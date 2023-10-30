@@ -1,0 +1,10 @@
+RITAproducts.productos:
+  path: '/productos'
+  defaults:
+    _controller: '\Drupal\RITAproducts\Controller\RITAproductsController::ejecutarFunction'
+    _title: 'Products Button'
+  requirements:
+    _permission: 'access content'
+
+
+

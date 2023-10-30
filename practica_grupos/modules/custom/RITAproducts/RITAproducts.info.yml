@@ -1,0 +1,6 @@
+name: RITAproducts
+type: module
+description: 'Modulo para actualizar los productos del GroupLac'
+core_version_requirement: '^8 || ^9 || ^10.0.8'
+package: Custom
+version: 1.0

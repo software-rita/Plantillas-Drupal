@@ -1,0 +1,246 @@
+{
+    "Artículos publicados": [
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Mobile Application as a Teaching Strategy to Learn English as a Second Language for Preschool Children, Advances in Intelligent Systems and Computing ISSN: 2194-5357, 2019 vol:909 fasc:págs: 273 - 283, DOI:Autores: ROCIO RODRIGUEZ GUERRERO, CARLOS ALBERTO VANEGAS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Mobile Application as a Teaching Strategy to Learn English as a Second Language for Preschool ChildrenColombia, Advances in Intelligent Systems and Computing ISSN: 2194-5357, 2019 vol:909 fasc:págs: 273 - 283, DOI:10.1007/978-3-030-11434-3Autores: ROCIO RODRIGUEZ GUERRERO, CARLOS ALBERTO VANEGAS"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "3D Modeling of Natural Heterogeneous Objects: An Introduction to Methods and Algorithms, Contemporary Engineering Sciences ISSN: 1314-7641, 2018 vol:11 fasc: N/A págs: 4357 - 4368, DOI:10.12988/ces.2018.88459Autores: ROCIO RODRIGUEZ GUERRERO, MILLER GOMEZ MORA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "3D Modeling of Natural Heterogeneous Objects: An Introduction to Methods and Algorithms, Contemporary Engineering Sciences ISSN: 1314-7641, 2018 vol:11 fasc: N/A págs: 4357 - 4368, DOI:10.12988/ces.2018.88459Autores: MILLER GOMEZ MORA, ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Geometric Modeling of Complex Anatomical Structures Based on Implicit Functions, Contemporary Engineering Sciences ISSN: 1314-7641, 2018 vol:11 fasc: N/A págs: 2121 - 2133, DOI:10.12988/ces.2018.85214Autores: MILLER GOMEZ MORA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Modeling of Heterogeneous Objects: An Approach Based on Implicit FunctionsColombia, Tecnura ISSN: 0123-921X, 2016 vol:20 fasc: N/A págs: 15 - 27, DOI:10.14483/udistrital.jour.tecnura.2016.1.a01Autores: MILLER GOMEZ MORA, LEONARDO FLOREZ VALENCIA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "REUTILIZACIÓN DE OBJETOS VIRTUALES DE APRENDIZAJE EN AMBIENTES DISTRIBUIDOSColombia, Vínculos ISSN: 1794-211X, 2014 vol:11 fasc:págs: 203 - 208, DOI:Autores: ROCIO RODRIGUEZ GUERRERO"
+        }
+    ],
+    " Libros publicados ": [
+        {
+            "verificacion": true,
+            "tipo": "Libro resultado de investigación",
+            "descripcion": " MODELADO TRIDIMENSIONAL DE ESTRUCTURAS ANATÓMICAS HETEROGÉNEASColombia, 2020, ISBN: 978- 958-787-173-9, Ed. Editorial UD (Editorial Universidad Distrital Francisco José de Caldas)Autores: MILLER GOMEZ MORA"
+        }
+    ],
+    "Capítulos de libro publicados ": [
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Anisotropic Diffusion for Smoothing: A Comparative StudyPolonia, 2016, Computer Vision and Graphics, ISBN: 978-3-319-46418-3, Vol. , págs:109 - 120, Ed. Springer International Publishing AG 2016Autores: CESAR JULIO BUSTACARA MEDINA, MILLER GOMEZ MORA, LEONARDO FLOREZ VALENCIA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Surface reconstruction from three-dimensional segmentations using implicit functionsColombia, 2015, Computing Colombian Conference (10ccc), 2015 10th, ISBN: 978-1-4673-9464-2, Vol. , págs:317 - 323, Ed. IEEE PublicationsAutores: MILLER GOMEZ MORA, LEONARDO FLOREZ VALENCIA"
+        }
+    ],
+    " Libros de formación": [
+        {
+            "verificacion": false,
+            "tipo": "Libros de formación",
+            "descripcion": " Python a su alcanceColombia,2020, ISBN: 978-9587871814, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: CARLOS ALBERTO VANEGAS, ROCIO RODRIGUEZ GUERRERO, GERARDO ALBERTO CASTANG MONTIEL"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Libros de formación",
+            "descripcion": " PYTHON A SU ALCANCEColombia,2020, ISBN: 978-9587871814 , Ed. Editorial UD (Editorial Universidad Distrital Francisco José de Caldas)Autores: ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Libros de formación",
+            "descripcion": " Java y el patrón Modelo-Vista-Controlador (MVC)Colombia,2019, ISBN: 978-958-787-155-5, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: CARLOS ALBERTO VANEGAS, SONIA ALEXANDRA PINZON NUNEZ, ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Libros de formación",
+            "descripcion": " JAVA Y EL PATRÓN MODELO-VISTA-CONTROLADOR (MVC)Colombia,2019, ISBN: 978-958-787-155-5 , Ed. Editorial UD (Editorial Universidad Distrital Francisco José de Caldas)Autores: ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Libros de formación",
+            "descripcion": " Programación y manejo de datos con Java utilizando NetBeans IDEColombia,2018, ISBN: 978-958-787-017-6, Ed. Fondo Editorial Universidad Distrital Francisco Jose De CaldasAutores: CARLOS ALBERTO VANEGAS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Libros de formación",
+            "descripcion": " APLICACIONES WEB CON HTML, JAVASCRIPT Y PHPColombia,2018, ISBN: 978-958-5434-91-2, Ed. U DistritalAutores: ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Libros de formación",
+            "descripcion": " Aplicaciones Web con HTMl, JavaScript y PhpColombia,2018, ISBN: 978-958-5434-91-2, Ed. Fondo Editorial Universidad Distrital Francisco Jose De CaldasAutores: CARLOS ALBERTO VANEGAS, ROCIO RODRIGUEZ GUERRERO, SONIA ALEXANDRA PINZON NUNEZ"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Libros de formación",
+            "descripcion": " LIBRE OFFICE MÓDULO 4Colombia,2015, ISBN: 9789588897295, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Libros de formación",
+            "descripcion": " APLICACIONES WEB HTML, CSS Y JAVA SCRIPTColombia,2014, ISBN: 9789588832777, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: ROCIO RODRIGUEZ GUERRERO"
+        }
+    ],
+    "Eventos Científicos": [
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " X Congreso Internacional de Computación CICOM-2020 Ciudad de México, desde 2020-10-21 - hasta 2020-10-23 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José de CalcasTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " IX Congreso Internacional de Computación CICOM-2019 CARTAGENA DE INDIAS, desde 2019-10-17 - hasta 2019-10-19 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José de CalcasTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VIII Congreso Internacional de Computación CICOM 2018 Taxco de Alarcón, desde 2018-10-11 - hasta 2018-10-13 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VII Congreso Internacional de Computación CICOM 2017 BOGOTÁ, D.C., desde 2017-09-28 - hasta 2017-09-30 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Seminario",
+            "descripcion": " Cuarto seminario - taller del grupo de investigación ImagiNet BOGOTÁ, D.C., desde 2016-12-05 - hasta 2016-12-07 Ámbito: Nacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XVIII Evento Internacional: ¿La Matemática, la Estadística y la Computación: su enseñanza y aplicaciones.¿. Matecompu2017 varadero, desde 2016-11-15 - hasta 2016-11-19 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": "VI Congreso Internacional en Computación CICOM-2016 Acapulco, desde 2016-10-27 - hasta 2016-10-29 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " International Conference on Computer Vision and Graphics ICCVG-2016 Varsovia, desde 2016-09-19 - hasta 2016-09-21 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Seminario",
+            "descripcion": " Tercer seminario - taller del grupo de investigación ImagiNet BOGOTÁ, D.C., desde 2015-10-05 - hasta 2015-10-09 Ámbito: Nacional, Tipos de participación: Organizador , Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " V Congreso Internacional de Computación México-Colombia - CICOM 2015 CARTAGENA DE INDIAS, desde 2015-09-24 - hasta 2015-09-26 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " V Congreso Internacional de computación Colombia - México CICOM 2015CARTAGENA DE INDIAS, desde 2015-09-24 - hasta 2015-09-26 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " 10 Congreso Colombiano de Computación (10CCC) BOGOTÁ, D.C., desde 2015-09-21 - hasta 2015-09-26 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Seminario",
+            "descripcion": " Ciclo de conferencias semana universitaria Universidad de Guerrero - Mexico Chilpancingo, desde 2015-04-27 - hasta 2015-05-01 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Autonoma de Gurrero (Mexico)Tipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": "IEEE Teaching, Assessment and Learning (TALE) (7062587) Wellington, desde 2014-12-08 - hasta 2014-12-10 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Seminario",
+            "descripcion": " Segundo seminario - taller del grupo de investigación ImagiNet BOGOTÁ, D.C., desde 2014-10-06 - hasta 2014-10-10 Ámbito: Nacional, Tipos de participación: Organizador , Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " IV Congreso Internacional de Computación CICOM 2014 Acapulco, desde 2014-10-02 - hasta 2014-10-04 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " IV Congreso Internacional de Computación CICOM 2014Acapulco, desde 2014-10-02 - hasta 2014-10-04 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " IV Congreso Internacional de Computación México-Colombia - CICOM 2014 Acapulco, desde 2014-10-02 - hasta 2014-10-04 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " 9 Congreso Colombiano de Computación (9CCC) PEREIRA, desde 2014-09-03 - hasta 2014-09-05 Ámbito: Internacional, Tipos de participación: Asistente , Ponente Instituciones asociadasNombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANATipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Seminario",
+            "descripcion": " Primer seminario - taller del grupo de investigación ImagiNet BOGOTÁ, D.C., desde 2013-10-07 - hasta 2013-10-11 Ámbito: Nacional, Tipos de participación: Organizador , Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " III Congreso Internacional de Computación (CICOM 2013) CARTAGENA DE INDIAS, desde 2013-09-18 - hasta 2013-09-20 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " Bogota ACMSIGGRAPH 2012 BOGOTÁ, D.C., desde 2012-10-25 - hasta 2012-10-26 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: PONTIFICIA UNIVERSIDAD JAVERIANATipo de vinculación Patrocinadora"
+        }
+    ],
+    "Informes de investigación": [
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Análisis del uso de las aplicaciones móviles en actividades de aprendizaje2019, Proyecto de investigación: ANÁLISIS DEL USO DE LAS APLICACIONES MÓVILES EN ACTIVIDADES DE APRENDIZAJEAutores: ROCIO RODRIGUEZ GUERRERO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Modelado tridimensional de estructuras anatómicas heterogéneas2018, Proyecto de investigación: Método para el modelado tridimensional de objetos heterogéneos a partir de imágenes TACAutores: MILLER GOMEZ MORA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " PLATAFORMA PARA LA ADMINISTRACION DE SISTEMAS DE GESTION DE APRENDIZAJE2015, Proyecto de investigación: PLATAFORMA PARA LA ADMINISTRACION DE SISTEMAS DE GESTION DE APRENDIZAJEAutores: ROCIO RODRIGUEZ GUERRERO"
+        }
+    ],
+    "Estrategias Pedagógicas para el fomento a la CTI": [
+        {
+            "verificacion": false,
+            "tipo": "Aplicación de Sistemas de Gestión de Aprendizaje para la transferencia de conocimiento",
+            "descripcion": " desde Septiembre 2018 hasta Descripción: Con la participación de docentes y estudiantes de los grupos de investigación Metis e Imaginet del Proyecto Curricular de Tecnología en Sistematización de Datos e Ingeniería Telemática, se diseñó una estrategia pedagógica de acuerdo a las necesidades planteadas por las funcionarias de la Alcaldía Local de Ciudad Bolívar y por el Proyecto Curricular de Tecnología en Sistematización de Datos e Ingeniería en Telemática. Para el desarrollo de la estrategia se utilizó el Sistema de Gestión de Aprendizaje Moodle, aplicando la metodología tipo blended,de tal forma que en primera instancia los participantes pudieron realizar su capacitación sin afectar significativamente sus actividades cotidianas y por otra parte facilitando la transferencia de conocimiento entre la Universidad Distrital Francisco José de Caldas y los habitantes de la localidad de Ciudad Bolívar, mediante el desarrollo de cursos enfocados al uso y apropiación de TIC."
+        },
+        {
+            "verificacion": false,
+            "tipo": "semillero de investigación en software libre  Gehirn",
+            "descripcion": " desde Julio 2006 hasta Descripción: El semillero se creó por iniciativa de estudiantes del proyecto de curricular de Sistematización de Datos y de la Ingeniera Rocío Rodríguez Guerrero con el fin de indagar, conocer, profundizar e incentivar el uso del software libre en la Facultad Tecnológica y en los respectivos proyectos curriculares, debido a que concluimos que: La investigación amplía visiones de la realidad mostrando nuevos caminos en donde se puede fortalecer el conocimiento adquirido en el aula."
+        }
+    ]
+}

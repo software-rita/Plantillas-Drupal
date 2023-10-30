@@ -1,0 +1,18 @@
+{{ attach_library('RITA/principal-styling') }}
+<!-- ======= Líneas de investigación Section ======= -->
+    <section id="Services" class="Services section-bg">
+        <div class="section-title" data-aos="fade-up">
+          <h2>Líneas y áreas de Investigación</h2>
+          <p>{{node.field_desc_linea.value}}</p>  
+        </div>
+        <div class="container-accordion" data-aos="fade-up">
+          <!-- Imagen acordion -->
+          <div class="img-accordion" style="background: url('{{file_url(node.field_img_lineas.entity.fileuri)}}') center center;">
+          </div>
+          <!-- Inicio acordion -->
+          <div id="accordion">
+            {{ drupal_view('vista_lineas', 'lineas') }}
+          </div>
+          <!-- Fin acordion -->
+        </div>
+    </section>

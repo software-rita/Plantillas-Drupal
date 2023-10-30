@@ -1,0 +1,69 @@
+global-styling:
+  css:
+    theme:
+      css/colorRojo.css: {}
+      css/style-footer.css: {}
+      vendor/bootstrap/css/bootstrap.min.css: {}
+      vendor/icofont/icofont.min.css: {}
+      vendor/boxicons/css/boxicons.min.css: {}
+      vendor/owl.carousel/assets/owl.carousel.min.css: {}
+      vendor/venobox/venobox.css: {}
+      vendor/aos/aos.css: {}
+      '//fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&family=Source+Serif+Pro:wght@300;400;600;700&display=swap': { type: external }
+  js:
+    vendor/jquery/jquery.min.js: {}
+    vendor/bootstrap/js/bootstrap.bundle.min.js: {}
+    vendor/jquery.easing/jquery.easing.min.js: {}
+    vendor/php-email-form/validate.js: {}
+    vendor/owl.carousel/owl.carousel.min.js: {}
+    vendor/isotope-layout/isotope.pkgd.min.js: {}
+    vendor/venobox/venobox.min.js: {}
+    vendor/aos/aos.js: {} 
+    js/back-to-top.js: {}
+    js/slider.js: {}
+principal-styling:
+  css:
+    theme:
+      css/style.css: {} 
+  js:
+    js/main.js: {}
+about-styling:
+  css:
+    theme:
+      css/style-about.css: {}
+  js:
+    js/about.js: {}
+publicaciones-styling:
+  css:
+    theme:
+      css/style-publicaciones.css: {}
+azul-styling:
+  css:
+    theme:
+      css/colorAzul.css: {}
+amarillo-styling:
+  css:
+    theme:
+      css/colorAmarillo.css: {}
+verde-styling:
+  css:
+    theme:
+      css/colorVerde.css: {}
+naranja-styling:
+  css:
+    theme:
+      css/colorNaranja.css: {}
+morado-styling:
+  css:
+    theme:
+      css/colorMorado.css: {}
+dark-cyan-styling:
+  css:
+    theme:
+      css/colorDarkCyan.css: {}
+admin:
+  css:
+    theme:
+      css/admin.css: {}
+
+

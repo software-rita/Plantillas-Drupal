@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * Implements hook_preprocess_page().
+ */
+function rita_preprocess_page(&$variables) {
+  $variables['color_sitio'] = theme_get_setting('color_sitio');
+}
+/**
+ * Accent color element.
+ */
+function _rita_color_radios($element) {
+  $options = array_keys($element['#options']);
+
+  foreach ($options as $values) {
+    $element[$values]['#attributes']['data-rita-color'] = $element[$values]['#return_value'];
+  }
+
+  return $element;
+}

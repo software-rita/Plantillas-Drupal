@@ -1,0 +1,43 @@
+<?php
+
+/**
+ * Implements hook_preprocess_page().
+ */
+function rita_preprocess_page(&$variables) {
+  $variables['color_sitio'] = theme_get_setting('color_sitio');
+}
+/**
+ * Accent color element.
+ */
+function _rita_color_radios($element) {
+  $options = array_keys($element['#options']);
+
+  foreach ($options as $values) {
+    $element[$values]['#attributes']['data-rita-color'] = $element[$values]['#return_value'];
+  }
+
+  return $element;
+}
+/**
+ * Implementa hook_preprocess_HOOK() 
+ */
+function rita_preprocess_views_view_unformatted__page_sobre_nosotros(array &$variables) {
+  // Verifica si estás en la vista específica que deseas.
+    $json_file_path = './modules/custom/RITAproducts/src/Controller/datos.json';
+
+    // Verifica si el archivo JSON existe.
+    if (file_exists($json_file_path)) {
+      // Lee el contenido del archivo JSON.
+      $json_content = file_get_contents($json_file_path);
+
+      // Decodifica el contenido JSON en un arreglo asociativo.
+      $json_data = json_decode($json_content, TRUE);
+
+      // Agrega los datos JSON a las variables de la vista.
+      $variables['json_data'] = $json_data;
+    }
+}
+
+
+
+?>

@@ -1,0 +1,47 @@
+[data-drupal-selector=edit-color-sitio] .form-radios .form-item--color-sitio input {
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    border-color: transparent;
+    margin: 2px;
+}
+
+[data-drupal-selector=edit-color-sitio] .form-radios .form-item--color-sitio .form-item__label {
+    top: -15px;
+}
+
+.form-type--boolean .form-boolean {
+    float: none !important;
+}
+
+[data-rita-color=rojo] {
+    background-color: #820000 !important;
+}
+
+[data-rita-color=azul] {
+    background-color: #172A47 !important;
+}
+
+[data-rita-color=amarillo] {
+    background-color: #b87400 !important;
+}
+
+[data-rita-color=verde] {
+    background-color: #006414 !important;
+}
+
+[data-rita-color=naranja] {
+    background-color: #c84323 !important;
+}
+
+[data-rita-color=morado] {
+    background-color: #2A1327 !important;
+}
+
+[data-rita-color=darkcyan] {
+    background-color: #18494b !important;
+}
+
+.form-boolean--type-radio:checked:not(:disabled) {
+    box-shadow: inset 0 0 0 2px white, inset 0 0 0 4px black !important;
+}

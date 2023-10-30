@@ -1,0 +1,107 @@
+{{ attach_library('RITA/about-styling') }}
+<section id="about" class="tab-pane active">
+    <div id="mision" data-aos="fade-down">
+        <div class="desc_mision">
+            <div class="icon-box icon-box-principal">
+                <div class="icon"><i class="icofont-brainstorming"></i></div>
+            </div>
+            <h3>Misión</h3>
+            <p class="texto-about">{{node.field_mision.value}}</p>
+        </div>
+        <div class="img_mision">
+            {% if node.field_imagen_mision.value %}
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(152, 57, 57, 0.65)),
+            url('{{file_url(node.field_imagen_mision.entity.fileuri)}}');"></div>
+            {% else %}
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(152, 57, 57, 0.65)),
+            url('{{ base_path ~ directory }}/images/paiba.JPG');"></div>
+            {% endif %}
+        </div>
+    </div>
+    <div id="vision" data-aos="fade-right">
+        <div class="desc_vision">
+            <div class="icon-box icon-box-principal">
+                <div class="icon"><i class="icofont-rocket-alt-2"></i></div>
+            </div>
+            <h3>Visión</h3>
+            <p class="texto-about">{{node.field_vision.value}}</p>
+        </div>
+        <div class="img_vision">
+            {% if node.field_imagen_vision.value %}
+            <div style="background-image:linear-gradient(to left, rgba(255, 255, 255), rgba(64, 64, 149, 0.65)),
+            url('{{file_url(node.field_imagen_vision.entity.fileuri)}}');"></div>
+            {% else %}
+            <div style="background-image:linear-gradient(to left, rgba(255, 255, 255), rgba(64, 64, 149, 0.65)),
+            url('{{ base_path ~ directory }}/images/paiba.JPG');"></div>
+            {% endif %}
+        </div>
+    </div> 	
+    {% if content.field_objetivos['#items'].value %}
+    <div id="objetivos" data-aos="fade-left">
+        <div class="desc_objetivos">
+            <div class="icon-box icon-box-principal">
+                <div class="icon"><i class="icofont-dart"></i></div>
+            </div>
+            <h3>Objetivos</h3>
+            <ul class="texto-about">
+                {% for item in content.field_objetivos['#items'] %}
+                    <li>{{item.value}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="img_objetivos">
+            {% if node.field_imagen_objetivos.value %}
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(109, 175, 109, 0.65)),
+            url('{{file_url(node.field_imagen_objetivos.entity.fileuri)}}');"></div>
+            {% else %}
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(109, 175, 109, 0.65)),
+            url('{{ base_path ~ directory }}/images/paiba.JPG');"></div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% if content.field_acciones['#items'].value %}
+    <div id="acciones" data-aos="fade-up">
+        <div class="desc_acciones">
+            <div class="icon-box icon-box-principal">
+                <div class="icon"><i class="icofont-instrument"></i></div>
+            </div>
+            <h3>Plan de acción</h3>
+            <ol class="texto-about">
+                {% for item in content.field_acciones['#items'] %}
+                    <li>{{item.value}}</li>
+                {% endfor %}
+            </ol>
+        </div>
+        <div class="img_acciones">
+            {% if node.field_imagen_plan_accion.value %}
+            <div style="background-image:linear-gradient(to left, rgba(255, 255, 255), rgba(255, 230, 86, 0.65)),
+            url('{{file_url(node.field_imagen_plan_accion.entity.fileuri)}}');"></div>
+            {% else %}
+            <div style="background-image:linear-gradient(to left, rgba(255, 255, 255), rgba(255, 230, 86, 0.65)),
+            url('{{ base_path ~ directory }}/images/paiba.JPG');"></div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% if node.field_historia.value %}
+    <div id="historia" data-aos="fade-down">
+        <div class="desc_mision">
+            <div class="icon-box icon-box-principal">
+                <div class="icon"><i class="icofont-book"></i></div>
+            </div>
+            <h3>Historia</h3>
+            <p class="texto-about">{{node.field_historia.value}}</p>
+        </div>
+        <div class="img_historia">
+            {% if node.field_imagen_historia.value %}
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(128, 0, 128, 0.65)),
+            url('{{file_url(node.field_imagen_historia.entity.fileuri)}}');"></div>
+            {% else %}
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(128, 0, 128, 0.65)),
+            url('{{ base_path ~ directory }}/images/paiba.JPG');"></div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+</section>

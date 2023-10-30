@@ -1,0 +1,18 @@
+{{ attach_library('RITA/principal-styling') }}
+<!-- ======= Semilleros de investigación Section ======= -->
+<section id="Semilleros" class="Services section-bg">
+  <div class="section-title" data-aos="fade-up">
+    <h2>Semilleros de Investigación</h2>
+  </div>
+  <div class="container-accordion">
+    <!-- Imagen acordion -->
+    <div class="img-accordion"
+      style="background: url('{{file_url(node.field_img_lineas.entity.fileuri)}}') center center;">
+    </div>
+    <!-- Inicio acordion -->
+    <div id="accordion">
+      {{ drupal_view('vista_semilleros', 'semilleros') }}
+    </div>
+    <!-- Fin acordion -->
+  </div>
+</section>

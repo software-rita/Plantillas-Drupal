@@ -1,0 +1,16 @@
+{{ attach_library('RITA/principal-styling') }}
+<div class="card">
+    <div class="card-header" id="heading{{node.id}}">
+        <h5 class="mb-0">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#collapse{{node.id}}" aria-expanded="true"
+                aria-controls="collapse{{node.id}}">
+                {{label}}
+            </button>
+        </h5>
+    </div>
+    <div id="collapse{{node.id}}" class="collapse" aria-labelledby="heading{{node.id}}" data-parent="#accordion">
+        <div class="card-body">
+            {{node.field_desc_linea.value}}
+        </div>
+    </div>
+</div>

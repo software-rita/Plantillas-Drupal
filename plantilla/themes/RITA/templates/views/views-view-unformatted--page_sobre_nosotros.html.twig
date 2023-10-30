@@ -1,0 +1,242 @@
+{#
+/**
+* @file
+* Default theme implementation to display a view of unformatted rows.
+*
+* Available variables:
+* - title: The title of this group of rows. May be empty.
+* - rows: A list of the view's row items.
+* - attributes: The row's HTML attributes.
+* - content: The row's content.
+* - view: The view object.
+* - default_row_class: A flag indicating whether default classes should be
+* used on rows.
+*
+* @see template_preprocess_views_view_unformatted()
+*
+* @ingroup themeable
+*/
+#}
+{{ attach_library('RITA/about-styling') }}
+
+{% if title %}
+<h3>{{ title }}</h3>
+{% endif %}
+
+<div id="tabsContent" class="tab-content">
+  {% for row in rows %}
+  {% if loop.last %}
+  <section id="semilleros" class="tab-pane fade">
+    <div class="section-title">
+      <h2 data-aos="fade-down">Semilleros</h2>
+    </div>
+    <div id="accordion-container">
+      {{ drupal_view('pdf_semilleros', 'pdf_semilleros') }}
+      {{ drupal_view('semilleros', 'semilleros') }}
+    </div>
+  </section>
+  <section id="RITA" class="tab-pane fade">
+    <div class="section-title">
+      <h3 class="tituloTeam" data-aos="fade-down" style="padding-top: 50px;">Desarrollador por la <a
+          href="https://rita.udistrital.edu.co/" target="_blank">Red de Investigaciones de Tecnología Avanzada
+          RITA</a></h3>
+      <p sty>En RITA, estamos comprometidos en brindar apoyo a nuestros colegas investigadores al ofrecer distintos <a
+          href="https://rita.udistrital.edu.co/consultar-servicios/" target="_blank"
+          style="color: var(--main-1-color); text-decoration: underline;"><strong>servicios</strong></a> profesionales
+        para promover su labor investigativa.</p>
+      <h3 class="tituloTeam" data-aos="zoom-in-down" style="padding-top: 50px;">¿Cómo Solicitar un Sitio Web
+        Investigativo?</h3>
+      <p>Si eres investigador de la Universidad Distrital Francisco José de Caldas y deseas solicitar nuestros servicios
+        de creación de sitios web, puedes comunícarte con nuestro equipo de desarrollo web a través de nuestro centro de
+        solcitudes dando click en el siguiente enlace: <a
+          href="https://rita.udistrital.edu.co/soporte2/upload/open.php?topicId=45&investigacion=138" target="_blank"
+          style="color: var(--main-1-color); text-decoration: underline;"><strong>Centro de solicitudes
+            RITA</strong></a>. En este enlace llena los campos obligatorios, crea la solicitud y nuestro equipo de
+        desarrollo se comunicará para dar solución a la solicitud.</p>
+      <p><strong>Estamos aquí para ayudarte en cada paso del proceso y garantizar que tu sitio web sea una herramienta
+          efectiva para tu investigación y divulgación académica.</strong></p>
+      <!-- Equipo desarrollo -->
+      <h3 class="tituloTeam" data-aos="zoom-in-down" style="padding-top: 50px;">Equipo Desarrollo RITA</h3>
+    </div>
+
+    <div class="owl-carousel members-carousel members">
+      <div class="member-item" data-toggle="modal" data-target="#memberModalE1">
+        <h3>Desarrolladora</h3>
+        <img src="{{ base_path ~ directory }}/images/Equipo/Ana_Garcia.png" class="img-fluid" alt="">
+        <p>Ana María García Acosta</p>
+      </div>
+      <div class="member-item" data-toggle="modal" data-target="#memberModalE2">
+        <h3>Desarrolladora</h3>
+        <img src="{{ base_path ~ directory }}/images/Equipo/Liliana_Herrera.png" class="img-fluid" alt="">
+        <p>Luz Liliana Herrera Polo</p>
+      </div>
+      <div class="member-item" data-toggle="modal" data-target="#memberModalE3">
+        <h3>Servicios TI</h3>
+        <img src="{{ base_path ~ directory }}/images/Equipo/Jhonnatan_Daza.png" class="img-fluid" alt="">
+        <p>Jhonnatan Leonardo Daza Ibarra</p>
+      </div>
+      <div class="member-item" data-toggle="modal" data-target="#memberModalE4">
+        <h3>Apoyo TI</h3>
+        <img src="{{ base_path ~ directory }}/images/Equipo/William-Rueda.png" class="img-fluid" alt="">
+        <p>William Rueda</p>
+      </div>
+    </div>
+    <div class="modal fade" id="memberModalE1" tabindex="-1" role="dialog" aria-labelledby="memberModalE1Label"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <div class="modal-header text-center">
+            <img src="{{ base_path ~ directory }}/images/Equipo/Ana_Garcia.png" class="img-fluid" alt="">
+            <div class="modal-title">
+              <h3 id="memberModalE1Label">Desarrolladora</h3>
+              <h5 id="memberModalE1Label">Ana María García Acosta</h5>
+            </div>
+          </div>
+          <div class="modal-body">
+            <p class="text-justify">Ingeniera de Sistemas de la Universidad Distrital Francisco José de Caldas, con
+              experiencia en desarrollo de software.</p>
+          </div>
+          <div class="modal-footer">
+            <a class="btn-team btn btn-more" target=”_blank”
+              href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002012918">cvLac</a>
+            <a class="btn-team linkedin btn btn-more" target=”_blank”
+              href="https://www.linkedin.com/in/ana-garcia8/">LinkedIn</a>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="memberModalE2" tabindex="-1" role="dialog" aria-labelledby="memberModalE2Label"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <div class="modal-header text-center">
+            <img src="{{ base_path ~ directory }}/images/Equipo/Liliana_Herrera.png" class="img-fluid" alt="">
+            <div class="modal-title">
+              <h3 id="memberModalE2Label">Desarrolladora</h3>
+              <h5 id="memberModalE2Label">Luz Liliana Herrera Polo</h5>
+            </div>
+          </div>
+          <div class="modal-body">
+            <p class="text-justify">Ingeniería de Sistemas de la Universidad Distrital Francisco José de Caldas, con
+              experiencia en el diseño y desarrollo de software.</p>
+          </div>
+          <div class="modal-footer">
+            <a class="btn-team btn btn-more" target=”_blank”
+              href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002012899">cvLac</a>
+            <a class="btn-team linkedin btn btn-more" target=”_blank”
+              href="https://www.linkedin.com/in/lherrerap/">LinkedIn</a>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="memberModalE3" tabindex="-1" role="dialog" aria-labelledby="memberModalE3Label"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <div class="modal-header text-center">
+            <img src="{{ base_path ~ directory }}/images/Equipo/Jhonnatan_Daza.png" class="img-fluid" alt="">
+            <div class="modal-title">
+              <h3 id="memberModalE3Label">Jhonnatan Leonardo Daza Ibarra</h3>
+              <h5 id="memberModalE3Label">Servicios TI</h5>
+            </div>
+          </div>
+          <div class="modal-body">
+            <p class="text-justify">Ingeniero de Sistemas de la Universidad Distrital Francisco José de caldas, con
+              conocimientos en servidores.</p>
+          </div>
+          <div class="modal-footer">
+            <a class="btn-team btn btn-more" target=”_blank”
+              href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002045535">cvLac</a>
+            <a class="btn-team linkedin btn btn-more" target=”_blank”
+              href="https://www.linkedin.com/in/jhonnatan-daza-5962a0290/">LinkedIn</a>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="memberModalE4" tabindex="-1" role="dialog" aria-labelledby="memberModalE4Label"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <div class="modal-header text-center">
+            <img src="{{ base_path ~ directory }}/images/Equipo/William-Rueda.png" class="img-fluid" alt="">
+            <div class="modal-title">
+              <h3 id="memberModalE4Label">William Rueda</h3>
+              <h5 id="memberModalE4Label">Apoyo TI</h5>
+            </div>
+          </div>
+          <div class="modal-body">
+            <p class="text-justify">Ingeniero Electrónico de la Universidad Distrital Francisco José de caldas, con
+              conocimiento en redes e IoT.</p>
+          </div>
+          <div class="modal-footer">
+            <a class="btn-team btn btn-more" target=”_blank”
+              href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002089521">cvLac</a>
+            <a class="btn-team linkedin btn btn-more" target=”_blank”
+              href="https://www.linkedin.com/in/willianrueda/">LinkedIn</a>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section-title">
+      <p><strong>Si tienes alguna pregunta o deseas iniciar el proceso de solicitud de un sitio web, por favor no dudes
+          en ponerte en contacto con nosotros.</strong></p>
+    </div>
+  </section>
+  <section id="productos" class="tab-pane fade">
+    <div class="section-title">
+      <h2 data-aos="fade-down" style="padding-bottom: 0em; margin-bottom: 0em;">Productos GrupLAC</h2>
+    </div>
+    <div>
+      {% if user.hasRole('content_editor') or user.hasRole('administrator') %}
+      <a href="{{ path('RITAproducts.productos') }}" class="btn btn-more">Actualizar datos</a>
+      {% endif %}
+      {# Verifica si los datos JSON existen y no están vacíos #}
+      {% if json_data %}
+      {# Loop a través de los datos JSON y mostrarlos #}
+      {% for category, items in json_data %}
+      <div class="section-title">
+        <h3>{{ category }}</h3>
+      </div>
+      <div id="cards-finish" class="card-group">
+        <div class="row row-cols-1 row-cols-md-3" style="margin-bottom: 30px;">
+          {% for item in items %}
+          <div class="col">
+            <div class="card .h-100">
+              <div class="card-body">
+                <div class="container-title">
+                  <h5 class="card-title">{{ item.tipo }} {% if item.verificacion %}<i class="icofont-check-circled"></i>{% endif %}</h5>
+                </div>
+                <p class="card-text desc">{{ item.descripcion }}</p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <hr>
+      {% endfor %}
+      {% else %}
+      <p>No se encontraron datos JSON.</p>
+      {% endif %}
+    </div>
+  </section>
+  {% endif %}
+  {{- row.content -}}
+  {% endfor %}
+</div>

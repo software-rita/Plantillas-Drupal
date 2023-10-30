@@ -1,0 +1,12 @@
+name: RITA
+description: 'Plantilla para grupos de investigacion, en configuración podras elegir el color que más te guste'
+type: theme
+base theme: claro
+core_version_requirement: '^8 || ^9 || ^10.0.8'
+version: 1.0.0
+libraries:
+  - RITA/global-styling
+favicon:
+  use_default: false
+  path: 'themes/RITA/favicon.ico'
+

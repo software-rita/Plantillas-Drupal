@@ -1,0 +1,57 @@
+#proyects {
+    height: auto;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#proyects .carousel {
+    width: 80vw;
+    height: auto;
+}
+
+#proyects .carousel-inner {
+    height: 80vh;
+}
+
+#proyects .carousel .carousel-inner .carousel-item {
+    height: 80vh;
+    background-size: cover !important;
+}
+ 
+#proyects .carousel .carousel-inner .carousel-item .carousel-filter{
+    background-color: rgb(0 0 0 / 34%);
+    width: 100%;
+    height: 100%;
+}
+
+#proyects .card-group .card {
+    margin: 5px !important;
+}
+
+#proyects .card-group .row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#proyects .card-group .card .card-body{
+    padding: 0;
+}
+
+#proyects .card-group .card .card-body .container-title{
+    background-color:red;
+    padding: 1rem 1.25rem;
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+#proyects .card-group .card .card-body .container-title .card-title {
+    margin-bottom: 0;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+
+#proyects .card-group .card .card-body .desc{
+    padding-top: 1rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}

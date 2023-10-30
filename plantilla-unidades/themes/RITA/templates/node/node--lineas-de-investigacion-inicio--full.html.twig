@@ -1,0 +1,24 @@
+{{ attach_library('RITA/principal-styling') }}
+<!-- ======= Grupos de investigación Section ======= -->
+<section id="Filtro" class="Services section-bg">
+  <div class="section-title" data-aos="fade-up">
+    <h2>Proyectos curriculares</h2>
+    <p>Selecciona el proyecto curricular del cual quieres ver los grupos y semilleros de investigación</p>
+  </div>
+</section>
+<section id="Grupos" class="Services section-bg">
+  <div class="section-title" data-aos="fade-up">
+    <h2>Grupos de Investigación</h2>
+  </div>
+  <div class="container-accordion">
+    <!-- Imagen acordion -->
+    <div class="img-accordion"
+      style="background: url('{{file_url(node.field_img_lineas.entity.fileuri)}}') center center;">
+    </div>
+    <!-- Inicio acordion -->
+    <div id="accordion">
+      {{ drupal_view('vista_lineas', 'lineas') }}
+    </div>
+    <!-- Fin acordion -->
+  </div>
+</section>

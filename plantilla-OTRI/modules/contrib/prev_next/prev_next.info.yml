@@ -1,0 +1,12 @@
+name: Prev/Next
+type: module
+description: Provide a high performance API for previous/next nodes for a given node.
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - drupal:block
+configure: prev_next.config_form
+
+# Information added by Drupal.org packaging script on 2022-11-22
+version: '8.x-2.0-alpha3'
+project: 'prev_next'
+datestamp: 1669161440

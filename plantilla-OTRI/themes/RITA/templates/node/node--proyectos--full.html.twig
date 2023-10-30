@@ -1,0 +1,12 @@
+{% if node.field_imagen_proyecto.value %}
+<div class="carousel-interno" style="background: no-repeat url('{{file_url(node.field_imagen_proyecto.entity.fileuri)}}') center center;" data-toggle="modal" data-target="#convocatoriaModal{{ node.id }}">
+{% else %}
+<div class="carousel-interno" style="background: no-repeat url('{{ base_path ~ directory }}/images/proyecto.jpg') center center;" data-toggle="modal" data-target="#convocatoriaModal{{ node.id }}">
+{% endif %}
+    <div class="carousel-filter">
+        <div class="carousel-caption d-md-block">
+            <h5 class="carusel-proyect-title">{{label}}</h5>
+            <p class="carusel-proyect-description">{{node.field_descripcion_proyecto.value}}</p>
+        </div>
+    </div>
+</div>

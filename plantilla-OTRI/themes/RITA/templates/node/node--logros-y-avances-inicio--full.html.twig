@@ -1,0 +1,47 @@
+{{ attach_library('RITA/principal-styling') }}
+<!-- ======= "INVESTIGACIÓN EN LA UNIDAD" Section ======= -->
+<section id="acknowledgment" class="acknowledgment">
+    <div class="container">
+        <div class="section-title" data-aos="fade-up">
+            <h2>Investigación en la unidad</h2>
+            <p>{{node.field_desc_logros.value}}</p>
+        </div>
+        <section class="logros">
+            <div class="card-deck" data-aos="fade-up">
+                <div class="card">
+                    <div class="card-img-top" style="background-image: url('{{file_url(node.field_img_reconocimiento.entity.fileuri)}}');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Documentación</h5>
+                        <hr>
+                        <p class="card-text">{{node.field_desc_reconocimiento.value}}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href='{{url('<front>') }}/SobreNosotros#documentos' class="card-link">Ver más</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img-top" style="background-image: url('{{file_url(node.field_img_publicaciones.entity.fileuri)}}');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Publicaciones y eventos</h5>
+                        <hr>
+                        <p class="card-text">{{node.field_desc_publicaciones.value}}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{url('<front>') }}/Publicaciones" class="card-link">Ver más</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img-top" style="background-image: url('{{file_url(node.field_img_proyectos.entity.fileuri)}}');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Grupos y semilleros de investigación</h5>
+                        <hr>
+                        <p class="card-text">{{node.field_desc_proyectos.value}}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{url('<front>') }}/investigacion" class="card-link">Ver más</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</section>

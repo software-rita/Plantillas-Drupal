@@ -1,0 +1,43 @@
+{{ attach_library('RITA/publicaciones-styling') }}
+<a href="{{ url }}" class="grid-columnas">
+<section class="card">
+    <div class="bg-image secundaria columna"
+        style="background-image: url('{{file_url(node.field_imagen_principal.entity.fileuri)}}');">
+    </div>
+    <div class="contenido">
+        <h5>{{label}}</h5>
+        <p> 
+        {% set text = content.field_cuerpo_publiacacion.0|render|striptags|trim %}
+        {{ (text|length > 200 ? text|slice(0, 201)|split(' ')|slice(0, -1)|join(' ') ~ '&hellip;' : text)|raw }}
+        </p>
+        <p class="autor">
+            {% if node.createdtime|date('m')==01 %}
+            Enero
+            {% elseif node.createdtime|date('m')==02 %}
+            Febrero
+            {% elseif node.createdtime|date('m')==03 %}
+            Marzo
+            {% elseif node.createdtime|date('m')==04 %}
+            Abril
+            {% elseif node.createdtime|date('m')==05 %}
+            Mayo
+            {% elseif node.createdtime|date('m')==06 %}
+            Junio
+            {% elseif node.createdtime|date('m')==07 %}
+            Julio
+            {% elseif node.createdtime|date('m')==08 %}
+            Agosto
+            {% elseif node.createdtime|date('m')==09 %}
+            Septiembre
+            {% elseif node.createdtime|date('m')==10 %}
+            Octubre
+            {% elseif node.createdtime|date('m')==11 %}
+            Noviembre
+            {% elseif node.createdtime|date('m')==12 %}
+            Diciembre
+            {% endif %}
+            {{node.createdtime|date('d, Y')}}
+        </p>
+    </div>
+</section>
+</a>

@@ -1,0 +1,10 @@
+{{ attach_library('RITA/about-styling') }}
+<div class="member-item" data-toggle="modal" data-target="#memberModal{{ node.id }}">
+    <h3>{{node.field_cargo.value}}</h3>
+    {% if node.	field_imagen_investigador.value %}
+    <img src="{{file_url(node.field_imagen_investigador.entity.fileuri)}}" class="img-fluid" alt="">
+    {% else %}
+    <img src="{{ base_path ~ directory }}/images/investigadores.png" class="img-fluid" alt="">
+    {% endif %}
+    <p>{{ node.title.value }}</p>
+</div>

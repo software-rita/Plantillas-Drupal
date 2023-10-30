@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <!-- El meta title ocupa una sola línea y debe tener máximo 60 caracteres -->
+  <title>{{NombreGrupo}}</title>
+  <!-- La meta description máximo debe tener 160 cáracteres -->
+  <meta content="{{description}}." name="description">
+
+  <meta content="{{palabras_claves}}" name="keywords">
+  <!-- Favicons -->
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="apple-touch-icon.ico" rel="apple-touch-icon">
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&family=Source+Serif+Pro:wght@300;400;600;700&display=swap"
+    rel="stylesheet">
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style-about.css" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <!-- ======= Header =======-->
+  <header>
+    <div class="row header-top">
+      <div class="col-md-8 offset-md-8">
+        <ul>
+          <li><a target="_blank"
+              href="tel:018000914410"><i
+                class="icofont-ui-call"></i>018000 - 914410</a></li>
+          <li><a target="_blank"
+              href="https://www.udistrital.edu.co/directorio"><i
+                class="icofont-book-alt"></i>Directorio</a></li>
+          <li><a target="_blank"
+              href="https://www.udistrital.edu.co/"><i
+                class="icofont-headphone-alt"></i>Servicios</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="logo">
+      <a href="https://www.udistrital.edu.co/inicio" target="_blank">
+        <img src="assets/img/logoud-negro.png" alt="" class="img-fluid">
+      </a>
+      <h1>{{nombre pagina}} - Universidad Distrital Francisco José de Caldas</h1>
+    </div>
+    <div class="row">
+      <div class="forma-div elemento-variable sub-menu col-md-8 offset-md-4">
+    <ul>
+        <li><a href="https://autoevaluacionyacreditacion.udistrital.edu.co/" target="_blank">Aseguramiento de la calidad</a></li>
+        <li><a href="https://idexud.udistrital.edu.co/" target="_blank">Instituto de extensión</a></li>
+        <li><a href="https://urelinter.udistrital.edu.co/" target="_blank">Internacionalización</a></li>
+        <li><a href="https://moodleilud.udistrital.edu.co/" target="_blank">Instituto de idiomas</a></li>
+      </ul>
+      </div>
+    </div>
+    <div id="header">
+      <div class="d-flex align-items-center ">
+        <div class="d-flex align-items-center logo mx-auto">
+          <a href="{{ url('<front>') }}" class="img_visible" id="logo">
+            <img src="assets/img/logoud_blanco.png" alt="" class="img-fluid">
+          </a>
+          <a class="inicio" style="text-align: left;" href="{{ url('<front>') }}">Inicio</a>
+        </div>
+        <nav class="menu d-none d-lg-block">
+          <ul id="tabs" class="nav nav-tabs">
+            <li><a href="#about" data-toggle="tab" class="nav-item nav-link active">¿Quienes somos?</a></li>
+            <li><a href="#team" data-toggle="tab" class="nav-item nav-link">Equipo de trabajo</a></li>
+            <li><a href="#history" data-toggle="tab" class="nav-item nav-link">Historia</a></li>
+            <li><a href="#semilleros" data-toggle="tab" class="nav-item nav-link">Semilleros</a></li>
+            <li><a href="#proyectos" data-toggle="tab" class="nav-item nav-link">Proyectos</a></li>
+            <li class="contact-button"><a href="#contact">Contacto</a></li>
+          </ul>
+        </nav><!-- .nav-menu -->
+      </div>
+    </div><!-- End Header -->
+  </header>
+  
+
+
+
+  <main id="main">
+    <div id="tabsContent" class="tab-content">
+      <section id="about" class="tab-pane active">
+        <div id="mision" data-aos="fade-down">
+          <div class="desc_mision">
+            <div class="icon-box icon-box-red">
+              <div class="icon"><i class="icofont-brainstorming"></i></div>
+            </div>
+            <h3>Misión</h3>
+            <p class="texto-about">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod consequatur suscipit,
+              quasi nam similique
+              sed officia esse obcaecati assumenda unde quisquam quibusdam accusamus beatae vel cum nihil fugiat!
+              Voluptatibus, quis.</p>
+          </div>
+          <div class="img_mision">
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(152, 57, 57, 0.65)),
+            url('assets/img/about_us/prueba.jpg');"></div>
+          </div>
+        </div>
+        <div id="vision" data-aos="fade-right">
+          <div class="desc_vision">
+            <div class="icon-box icon-box-red">
+              <div class="icon"><i class="icofont-rocket-alt-2"></i></div>
+            </div>
+            <h3>Visión</h3>
+            <p class="texto-about">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nesciunt voluptatem,
+              tempore sunt quo,
+              omnis dolor quae tenetur perspiciatis corporis cum libero quas magnam reprehenderit hic illo. Qui, nobis
+              culpa?</p>
+          </div>
+          <div class="img_vision">
+            <div style="background-image:linear-gradient(to left, rgba(255, 255, 255), rgba(64, 64, 149, 0.65)),
+            url('assets/img/about_us/prueba.jpg');"></div>
+          </div>
+        </div>
+        <div id="objetivos" data-aos="fade-left">
+          <div class="desc_objetivos">
+            <div class="icon-box icon-box-red">
+              <div class="icon"><i class="icofont-dart"></i></div>
+            </div>
+            <h3>Objetivos</h3>
+            <ul class="texto-about">
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt ad ab modi voluptatibus non sit amet
+                velit quaerat ipsam, perspiciatis dicta maiores doloremque. Iure officia iste rem tempore harum maxime!
+              </li>
+              <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit debitis officia at omnis quis ipsam
+                nam quas hic magnam exercitationem! Deleniti, incidunt. Cum dolores architecto eveniet. Molestias dicta
+                debitis corrupti?</li>
+              <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, dolorum? Sint omnis repellat
+                placeat a est quisquam modi. Molestias commodi blanditiis nostrum praesentium neque ratione ipsa
+                voluptatibus, vel adipisci odio.</li>
+            </ul>
+          </div>
+          <div class="img_objetivos">
+            <div style="background-image:linear-gradient(to right, rgba(255, 255, 255), rgba(109, 175, 109, 0.65)),
+            url('assets/img/about_us/prueba.jpg');"></div>
+          </div>
+        </div>
+        <div id="acciones" data-aos="fade-up">
+          <div class="desc_vision">
+            <div class="icon-box icon-box-red">
+              <div class="icon"><i class="icofont-instrument"></i></div>
+            </div>
+            <h3>Plan de acción</h3>
+            <ol type="A" class="texto-about">
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quo dolores error tenetur placeat
+                maiores esse fugiat maxime libero minus numquam deleniti obcaecati soluta, provident, quaerat vero
+                beatae fuga blanditiis.</li>
+              <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores cumque consequatur harum.
+                Recusandae, excepturi deserunt. Minus, temporibus. Aperiam, blanditiis error! Laudantium ipsam fugiat
+                aut voluptatibus delectus illo, corporis aliquam accusamus!</li>
+              <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident error magni ducimus deserunt vitae
+                molestias consequuntur dignissimos suscipit, corporis, harum voluptatibus similique natus numquam
+                voluptatem nesciunt. Incidunt rerum perspiciatis quos.</li>
+            </ol>
+          </div>
+          <div class="img_acciones">
+            <div style="background-image:linear-gradient(to left, rgba(255, 255, 255), rgba(255, 230, 86, 0.65)),
+            url('assets/img/about_us/prueba.jpg');"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="team" class="tab-pane fade">
+        <div class="section-title">
+          <h2 data-aos="fade-down">Equipo de Trabajo</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, repellendus alias enim, perspiciatis
+            numquam, dolores voluptatibus ex nam esse facilis sint pariatur itaque! Doloremque dolore deserunt
+            reprehenderit ab, placeat commodi?</p>
+          <h3 class="tituloTeam" data-aos="zoom-in-down">Director</h3>
+          <div class="cont-general-team dir-team">
+            <div class="cont-main-ind-team">
+              <div class="descrip-ind-team">
+                <br>
+                <span>{{Nombre del director}}</span>
+                <h5>Director</h5>
+                <div class="descrip-ind-team-img">
+                  <img src="assets/img/team/investigadores.png" alt="director">
+                </div>
+              </div>
+              <hr class="line-team-ind">
+              <div class="profile-team">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, labore, accusamus itaque sint optio
+                obcaecati beatae molestiae, cumque incidunt reprehenderit ut. Porro debitis ut esse aspernatur sequi
+                modi voluptatem sapiente!
+              </div>
+              <a class="btn-team btn btn-more" href="/">cvLac</a>
+              <a class="btn-team linkedin btn btn-more" href="/">LinkedIn</a>
+            </div>
+          </div>
+          <h3 class="tituloTeam" data-aos="zoom-in-down">Investigadores</h3>
+          <div class="owl-carousel members-carousel members">
+            <!-- Por si no tienen imagen -->
+            <div class="member-item" data-toggle="modal" data-target="#memberModal4">
+              <h3>{{cargo}}</h3>
+              <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+              <p>{{Nombre}}</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModal0">
+              <h3>{{cargo}}</h3>
+              <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+              <p>{{Nombre}}</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModal1">
+              <h3>{{cargo}}</h3>
+              <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+              <p>{{Nombre}}</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModal2">
+              <h3>{{cargo}}</h3>
+              <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+              <p>{{Nombre}}</p>
+            </div>
+            <div class="member-item" data-toggle="modal" data-target="#memberModal3">
+              <h3>{{cargo}}</h3>
+              <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+              <p>{{Nombre}}</p>
+            </div>
+
+          </div>
+        </div>
+      </section>
+      <section id="history" class="tab-pane fade">
+        <div class="section-title">
+          <h2 data-aos="fade-down">Historia</h2>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione eum laborum vitae. Hic obcaecati sequi
+            possimus, eaque aspernatur amet a corrupti deserunt ab pariatur earum? Quae dolores excepturi perspiciatis
+            unde.</p>
+        </div>
+        <div class="timeline">
+          <ul>
+            <li>
+              <div>
+                <time>1934</time> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1937</time> Proin quam velit, efficitur vel neque vitae, rhoncus commodo mi. Suspendisse finibus
+                mauris et bibendum molestie. Aenean ex augue, varius et pulvinar in, pretium non nisi.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1940</time> Proin iaculis, nibh eget efficitur varius, libero tellus porta dolor, at pulvinar
+                tortor ex eget ligula. Integer eu dapibus arcu, sit amet sollicitudin eros.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1943</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1946</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1956</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1957</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1967</time> Aenean condimentum odio a bibendum rhoncus. Ut mauris felis, volutpat eget porta
+                faucibus, euismod quis ante.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1977</time> Vestibulum porttitor lorem sed pharetra dignissim. Nulla maximus, dui a tristique
+                iaculis, quam dolor convallis enim, non dignissim ligula ipsum a turpis.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>1985</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>2000</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+            <li>
+              <div>
+                <time>2005</time> In mattis elit vitae odio posuere, nec maximus massa varius. Suspendisse varius
+                volutpat mattis. Vestibulum id magna est.
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section id="semilleros" class="tab-pane fade">
+        <div class="section-title">
+          <h2 data-aos="fade-down">Semilleros</h2>
+        </div>
+        <div id="accordion-container">
+          <div id="accordion_object">
+            <object id="semillero1-documento" data="assets/img/about_us/reunionsemanalSOFTWARE.pdf"
+              type="application/pdf" width="800" height="500" view="FitV">
+              <p>Parece que no tienes un visor de PDF para este navegador.
+                no hay problema... Puedes <a href="assets/img/about_us/reunionsemanalSOFTWARE.pdf">descargar aquí
+                </a>el archivo.</p>
+            </object>
+            <object id="semillero2-documento" data="assets/img/about_us/reunionsemanalSOFTWARE.pdf"
+              type="application/pdf" width="800" height="500">
+              <p>Parece que no tienes un visor de PDF para este navegador.
+                no hay problema... Puedes <a href="assets/img/about_us/reunionsemanalSOFTWARE.pdf">descargar aquí
+                </a>el archivo.</p>
+            </object>
+            <object id="semillero3-documento" data="assets/img/about_us/reunionsemanalSOFTWARE.pdf"
+              type="application/pdf" width="800" height="500">
+              <p>Parece que no tienes un visor de PDF para este navegador.
+                no hay problema 2... Puedes <a href="assets/img/about_us/reunionsemanalSOFTWARE.pdf">descargar aquí
+                </a>el archivo.</p>
+            </object>
+          </div>
+          <div id="semilleros_accordion">
+            <div class="accordion" tab-name="semillero1">
+              <div class="accordion_head">
+                <div class="icon-box icon-box-red"><i class="icofont-education"></i></div>
+                <h6>{{Nombre del semillero}}</h6>
+              </div>
+              <div class="accordion_body">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate corrupti aperiam id aliquid ipsa
+                  dolorum nihil asperiores dolorem error hic sequi at, corporis, exercitationem odit fugiat officia
+                  placeat ipsum repellendus?</p>
+                <p class="semillero-boton"><a target="_blank" href="assets/img/about_us/reunionsemanalSOFTWARE.pdf">Da
+                    click aquí
+                  </a>para ver el archivo.</p>
+              </div>
+            </div>
+            <div class="accordion" tab-name="semillero2">
+              <div class="accordion_head">
+                <div class="icon-box icon-box-red"><i class="icofont-education"></i></div>
+                <h6>{{Nombre del semillero}}</h6>
+              </div>
+              <div class="accordion_body">
+                <p>Lorem ipsum dolor sit amet...</p>
+                <p class="semillero-boton"><a target="_blank" href="assets/img/about_us/reunionsemanalSOFTWARE.pdf">Da
+                    click aquí
+                  </a>para ver el archivo.</p>
+              </div>
+            </div>
+            <div class="accordion" tab-name="semillero3">
+              <div class="accordion_head">
+                <div class="icon-box icon-box-red"><i class="icofont-education"></i></div>
+                <h6>{{Nombre del semillero}}</h6>
+              </div>
+              <div class="accordion_body">
+                <p>Lorem ipsum dolor sit amet...</p>
+                <p class="semillero-boton"><a target="_blank" href="assets/img/about_us/reunionsemanalSOFTWARE.pdf">Da
+                    click aquí
+                  </a>para ver el archivo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="proyectos" class="tab-pane fade">
+        <div class="section-title">
+          <h2 data-aos="fade-down">Proyectos en ejecución</h2>
+        </div>
+        <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active" style="background: no-repeat url('assets/img/about-img1.jpg')">
+              <div class="carousel-filter">
+                <div class="carousel-caption d-md-block">
+                  <h5>First slide label</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est ipsam amet velit consequuntur magni
+                    sapiente repellendus excepturi laborum iste quidem! Corrupti, nostrum? Dolorem sed, vel minima
+                    architecto perspiciatis nisi molestiae.</p>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item" style="background: no-repeat url('assets/img/about-img1.jpg')">
+              <div class="carousel-filter">
+                <div class="carousel-caption d-md-block">
+                  <h5>Second slide label</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptatibus tenetur debitis
+                    adipisci totam similique aliquam cum doloremque dolor, magnam in illum quasi tempore ullam nesciunt
+                    quis? Pariatur, alias nisi.</p>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item" style="background: no-repeat url('assets/img/about-img1.jpg')">
+              <div class="carousel-filter">
+                <div class="carousel-caption d-md-block">
+                  <h5>Third slide label</h5>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum iste possimus iusto dolorum error,
+                    dolores libero accusamus architecto. Doloremque eum impedit quas fugit omnis totam aliquam in
+                    cupiditate quod explicabo?</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+        <div class="section-title">
+          <h2 data-aos="fade-down">Proyectos Finalizados</h2>
+        </div>
+        <div class="card-group">
+          <div class="row row-cols-1 row-cols-md-3">
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">This card has supporting text below as a natural lead-in to additional
+                    content.</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">This card has supporting text below as a natural lead-in to additional
+                    content.</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet
+                    consectetur voluptatibus a quo aliquam quia odio expedita? Eveniet sunt eum commodi iusto odit,
+                    quaerat quam consequatur ipsum nobis, esse ullam!</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">This card has supporting text below as a natural lead-in to additional
+                    content.</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">This card has supporting text below as a natural lead-in to additional
+                    content.</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">This card has supporting text below as a natural lead-in to additional
+                    content.</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card .h-100">
+                <div class="card-body">
+                  <div class="container-title">
+                    <h5 class="card-title">Nombre del Proyecto</h5>
+                  </div>
+                  <p class="card-text desc">This card has supporting text below as a natural lead-in to additional
+                    content.</p>
+                  <div class="card-footer">
+                    <p class="card-text"><small class="text-muted">Finalizado en {{año}}</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </main><!-- End #main -->
+  <!-- Modal -->
+  <div class="modal fade" id="memberModal0" tabindex="-1" role="dialog" aria-labelledby="memberModal0Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-header text-center">
+          <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+          <div class="modal-title">
+            <h3 id="memberModal0Label">{{Nombre}}</h3>
+            <h5 id="memberModal0Label">{{Cargo}}</h5>
+          </div>
+        </div>
+        <div class="modal-body">
+          <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit minus esse eum
+            exercitationem ipsa
+            recusandae minima officiis, repellendus pariatur repellat laudantium reprehenderit. Necessitatibus ut
+            praesentium pariatur asperiores doloribus porro fuga.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-more">cvLac</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="memberModal1" tabindex="-1" role="dialog" aria-labelledby="memberModal1Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-header text-center">
+          <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+          <div class="modal-title">
+            <h3 id="memberModal1Label">{{Nombre}}</h3>
+            <h5 id="memberModal1Label">{{Cargo}}</h5>
+          </div>
+        </div>
+        <div class="modal-body">
+          <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit minus esse eum
+            exercitationem ipsa
+            recusandae minima officiis, repellendus pariatur repellat laudantium reprehenderit. Necessitatibus ut
+            praesentium pariatur asperiores doloribus porro fuga.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-more">cvLac</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="memberModal2" tabindex="-1" role="dialog" aria-labelledby="memberModal2Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-header text-center">
+          <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+          <div class="modal-title">
+            <h3 id="memberModal2Label">{{Nombre}}</h3>
+            <h5 id="memberModal2Label">{{Cargo}}</h5>
+          </div>
+        </div>
+        <div class="modal-body">
+          <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit minus esse eum
+            exercitationem ipsa
+            recusandae minima officiis, repellendus pariatur repellat laudantium reprehenderit. Necessitatibus ut
+            praesentium pariatur asperiores doloribus porro fuga.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-more">cvLac</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="memberModal3" tabindex="-1" role="dialog" aria-labelledby="memberModal3Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <button type="button" class="close text-right" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-header text-center">
+          <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+          <div class="modal-title">
+            <h3 id="memberModal3Label">{{Nombre}}</h3>
+            <h5 id="memberModal3Label">{{Cargo}}</h5>
+          </div>
+        </div>
+        <div class="modal-body">
+          <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit minus esse eum
+            exercitationem ipsa
+            recusandae minima officiis, repellendus pariatur repellat laudantium reprehenderit. Necessitatibus ut
+            praesentium pariatur asperiores doloribus porro fuga.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-more">cvLac</button>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="memberModal4" tabindex="-1" role="dialog" aria-labelledby="memberModal4Label"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <button type="button" class="close close text-right" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-header text-center">
+          <img src="assets/img/team/investigadores.png" class="img-fluid" alt="">
+          <div class="modal-title">
+            <h3 id="memberModal4Label">{{Nombre}}</h3>
+            <h5 id="memberModal4Label">{{Cargo}}</h5>
+          </div>
+        </div>
+        <div class="modal-body">
+          <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit minus esse eum
+            exercitationem ipsa
+            recusandae minima officiis, repellendus pariatur repellat laudantium reprehenderit. Necessitatibus ut
+            praesentium pariatur asperiores doloribus porro fuga.</p>
+        </div>
+        <div class="modal-footer">
+          <a class="btn-team btn btn-more" href="/">cvLac</a>
+          <a class="btn-team linkedin btn btn-more" href="/">LinkedIn</a>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/about.js"></script>
+  <script src="assets/js/back-to-top.js"></script>
+</body>
+
+</html>

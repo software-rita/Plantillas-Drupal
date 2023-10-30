@@ -1,0 +1,39 @@
+{{ attach_library('RITA/principal-styling') }}
+{{ attach_library('RITA/publicaciones-styling') }}
+<section id="publicacion">
+    <!-- seccion heading -->
+    <div class="cabecera" style="background-image: url('{{file_url(node.field_imagen_principal.entity.fileuri)}}');">
+        <div class="container-filter">
+            <!-- seccion titulo noticia -->
+            <div class="container centrar barraIzquierda">
+                <h3 class="title-cabecera">{{label}}</h3>
+            </div>
+            <!-- seccion iconos informacion -->
+            <div class="container info">
+                <i class="icofont-calendar"><span class="descrIconos">{{ node.createdtime|date('d/m/Y') }}</span></i>
+                <i class="icofont-clock-time"><span class="descrIconos">{{ node.createdtime|date('h:i:s A') }}</span></i>
+                <!-- seccion iconos redes sociales -->
+                <div class="container social">
+                    {{ drupal_block("social_sharing_buttons_block") }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- seccion aside -->
+    <div class="container con-sidebar">
+        <article>
+            <div class="contenido">
+                <h2 class="principal-title">{{label}}</h2>
+                {{node.field_cuerpo_publiacacion.value|raw}}
+            </div>
+            <!-- seccion paginacion  -->
+            <div class="centrar">
+                <ul class="paginacion">
+                    {{ drupal_entity('block','rita_prevnext') }}
+                </ul>
+            </div>
+        </article>
+        {{ drupal_view('recomendaciones_publicaciones', 'recomendaciones_publicaciones' , node.id) }}
+    </div>
+</section>
+{{ drupal_entity('node', 34 , 'full') }}

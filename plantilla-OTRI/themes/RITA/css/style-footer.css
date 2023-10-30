@@ -1,0 +1,285 @@
+/*************************************************/
+/*****Estilos de la sección de footer ***********/
+/***********************************************/
+
+#contacto {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    background-color: var(--main-1-color);
+    padding: 0;
+  }
+  
+  .lines-cont {
+    width: 100%;
+    height: auto;
+    background-color: white;
+  }
+  
+  .line-amarilla {
+    background: #FDB400;
+    border: 3px solid #FDB400;
+  }
+  
+  .line-vinotinto {
+    background: #8c1919;
+    border: 3px solid #8c1919;
+  }
+  
+  .line-blanca {
+    background: #ffffff;
+    border: 3px solid #ffffff;
+  }
+  
+  hr {
+    margin: 0 !important;
+  }
+  
+  .title-contacto {
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .title-contacto h3 {
+    padding-top: 8px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+  }
+  
+  footer a {
+    color: rgba(255, 255, 255, 0.705);
+  }
+  
+  footer a:hover {
+    color: #FDB400;
+  }
+  
+  footer {
+    height: auto;
+    width: 90%;
+    display: flex !important;
+    margin: 18px auto 18px auto;
+  }
+  
+  .footer-ud,
+  .footer-rita {
+    width: 32%;
+    height: auto;
+    border-right: 1px solid #3c0000;
+    padding: 1% 2.5% 2.5% 2.5%;
+  }
+  
+  .footer-datos {
+    padding: 1% 2.5% 2.5% 2.5% !important;
+    height: 100%;
+  }
+  
+  footer h5 {
+    font-size: 20px;
+    margin-top: 25px;
+    text-align: left;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  footer h6 {
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.705);
+    font-weight: bold;
+  }
+  
+  footer img {
+    width: auto;
+    height: 110px;
+    padding: 18px 0px 18px 0px;
+  }
+  
+  footer p {
+    font-size: 15px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.705);
+  }
+  
+  .footer-datos,
+  .footer-rita i {
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  .footer-datos i {
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  .footer-datos a {
+    color: rgba(255, 255, 255, 0.705);
+    transition: color 1s;
+  }
+  
+  .footer-datos a:hover {
+    color: #FDB400;
+    transition: color 1s;
+  }
+  
+  .footer-rita,
+  .footer-datos span {
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.705);
+    font-weight: bold;
+  }
+  
+  .social_footer {
+    width: 100%;
+    margin-top: 15px;
+    height: 40px;
+  }
+  
+  .social_footer i {
+    color: white;
+    font-size: 25px;
+    padding: 5px 12px 0px 12px;
+    transition: color 1s;
+  }
+  
+  .social_footer i:hover {
+    color: #FDB400;
+    transition: color 1s;
+  }
+  
+  
+  .derechos {
+    padding: 30px 0 30px 0;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.705);
+    font-weight: normal;
+    font-size: 18px;
+  }
+  
+  /**************************/
+  /*Resposive desing footer */
+  /**************************/
+  
+  @media (max-width: 1100px) {
+    #contacto{
+        position: absolute;
+        left: 0;
+        margin-left: 0;
+        margin-right: 0;
+        width: 104%;
+    }
+    footer {
+      display: block !important;
+      width: 80%;
+    }
+  
+    .footer-ud,
+    .footer-rita {
+      width: 100%;
+      height: auto;
+      border-right: none;
+      border-bottom: 1px solid #707070;
+      text-align: center;
+    }
+  
+    .footer-datos {
+      width: 100%;
+      padding: 1% 2.5% 2.5% 2.5%;
+      height: auto;
+      border-right: none;
+      border-bottom: 1px solid #707070;
+      text-align: center;
+    }
+  
+    .title-contacto {
+      width: 90%;
+    }
+  
+    .derechos {
+      font-size: 15px;
+    }
+  
+    .title-contacto {
+      width: 90%;
+      height: auto;
+      margin: 20px auto;
+      padding: 20px 0 0 0;
+    }
+  
+    #contacto h5 {
+      text-align: center;
+    }
+  
+    #contacto img {
+      padding: 5px 0;
+    }
+  
+    .footer-datos h5 {
+      margin-top: 0;
+    }
+  
+    #contacto p {
+      margin: 15px 0 0 0;
+    }
+  }
+  
+  @media (max-width: 481px) {
+    .derechos {
+      font-size: 13px;
+    }
+  
+    .social_footer i {
+      color: white;
+      font-size: 20px;
+      padding: 5px 12px 0px 12px;
+      transition: color 1s;
+    }
+  
+    #contacto img {
+      padding: 0;
+      height: 80px;
+    }
+  
+    .title-contacto h3 {
+      font-size: 40px;
+    }
+  
+    .footer-datos h5 {
+      margin-top: 25px;
+    }
+  }
+
+/*--------------------------------------------------------------
+# Back to top button
+--------------------------------------------------------------*/
+.back-to-top {
+    position: fixed;
+    display: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    right: 15px;
+    bottom: 15px;
+    background: var(--main-1-color);
+    color: #fff;
+    transition: display 0.5s ease-in-out;
+    z-index: 99999;
+}
+
+.back-to-top i {
+    font-size: 24px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+
+.back-to-top:hover {
+    color: #fff;
+    background: var(--main-ligth-color);
+}

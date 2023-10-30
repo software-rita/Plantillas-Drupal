@@ -1,0 +1,17 @@
+{{ attach_library('RITA/principal-styling') }}
+<!-- ======= Banner Section ======= -->
+{% if node.field_hero.value %}
+<section id="hero" style="background: no-repeat url('{{file_url(node.field_hero.entity.fileuri)}}') center center/cover;" class="d-flex flex-column justify-content-center align-items-center">
+{% else %}
+<section id="hero" style="background: no-repeat url('{{ base_path ~ directory }}/images/hero.jpg') center center/cover;" class="d-flex flex-column justify-content-center align-items-center">
+{% endif %}
+    <div class="container text-center" data-aos="fade-up">
+        <h1>{{node.field_nombre_grupo.value}}</h1>
+        <h2 class="titulo-investigacion">Grupo de Investigación</h2>
+        <h2 class="nombre-grupo">{{node.field_desc_grupo.value}}</h2>
+    </div>
+    <a href="#about" class="btn-get-started scrollto">Leer más <span class="flecha-button">
+            »
+        </span></a>
+</section>
+<!-- End Hero -->

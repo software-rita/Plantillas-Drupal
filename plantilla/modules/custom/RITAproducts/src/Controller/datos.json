@@ -1,0 +1,921 @@
+{
+    "Artículos publicados": [
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Navigation of mobile robots in formation of convoyColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 2248-4728, 2020 vol:14 fasc:págs: 1 - 13, DOI:Autores: WILLSON INFANTE MORENO, BRAYAN HUMBERTO RAMIREZ PENA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "DESPLAZAMIENTO DE ROBOT MÓVILES EN FORMA DE CONVOY.Colombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 2248-4728, 2020 vol:11 fasc: 1 págs: 1 - 13, DOI:10.14483/issn.2248-4728Autores: BRAYAN HUMBERTO RAMIREZ PENA, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Forensic analysis with hacking tools on android devicesColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2019 vol:1 fasc: 13 págs: 1 - 30, DOI:Autores: GUSTAVO ADOLFO HIGUERA CASTRO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Control de un convoy robótico mediante planificación de rutas y estrategias de orientaciónColombia, Revista Científica ISSN: 0124-2253, 2017 vol:3 fasc:págs: 237 - 251, DOI:10.14483/23448350.12305Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "IMPLEMENTACIÓN DE UNA RED DE COMUNICACIÓN INDUSTRIAL MODBUS PARA EL MONITOREO DE SEÑALES DE HUMEDAD Y TEMPERATURA EN PLANTAS DE PRODUCCIÓN EN LA INDUSTRIA FARMACEÚTICAColombia, Revista Teckne ISSN: 1909-793X, 2017 vol:15 fasc: 1 págs: 10 - 17, DOI:Autores: GUSTAVO ADOLFO HIGUERA CASTRO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "The advanced persistent threats (APT) and its method ofdelinquencyColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2016 vol:10 fasc: 2 págs: 224 - 229, DOI:10.14483/22484728.11740Autores: KRISTEL SOLANGE NOVOA ROLDAN, EDWING OSWALDO BERDUGO ROMERO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Control comportamental de un robot lego nxt orientado para tareas de búsqueda y evasión de obstáculosColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2016 vol:10 fasc: 2 págs: 203 - 2009, DOI:10.14483/22484728.11782Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, EDWIN ANDRES BELTRAN GONZALEZ, MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Emulación del Videojuego ¿Pong¿, usando Robots Móviles con herramientas Lego Mindstorms Nxt 2.0Colombia, Academia Y Virtualidad ISSN: 2011-0731, 2016 vol:9 fasc: 2 págs: 59 - 72, DOI:10.18359/ravi.2002Autores: WILLSON INFANTE MORENO, EDWING OSWALDO BERDUGO ROMERO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Robot lego para simular el desplazamiento tipo motocicletaColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2015 vol:9 fasc:págs: 48 - 57, DOI:10.14483/22484728Autores: WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Localización de un robot móvil tipo LEGO con el filtro de KalmanColombia, Vínculos ISSN: 1794-211X, 2014 vol:10 fasc:págs: 41 - 49, DOI:10.14483/2322939X.4701Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Implementation of Kalman Filter for the Indoor Location system of a LEGO NXT Mobile robotColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2014 vol:7 fasc: 1 págs: 125 - 133, DOI:10.14483/22484728.7886Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, LEIDY YOLANDA LOPEZ OSORIO, MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Implementation of Kalman Filter for the indoor location system of a lego NXT mobile robotColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2014 vol:N/A fasc: N/A págs: 10 - 20, DOI:Autores: MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Diseño e implementación de dos plataformas móviles bioinspiradas para la simulación del comportamiento de cazaColombia, Tecnura ISSN: 0123-921X, 2013 vol:17 fasc: N/A págs: 69 - 78, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, RHONIER ERNESTO MACHADO MOSQUERA, HECTOR IVAN TANGARIFE"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Localización de un robot móvil tipo lego con el filtro de KalmanColombia, Vínculos ISSN: 1794-211X, 2013 vol:10 fasc: N/A págs: 41 - 49, DOI:Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Implementación de máquinas de estados basadas en rom en dispositivos fpga de xilinx de bajo costoColombia, Ingenium ISSN: 0124-7492, 2013 vol:14 fasc: 28 págs: 86 - 94, DOI:Autores: MIGUEL RICARDO PEREZ PEREIRA, EDWAR JACINTO GOMEZ, MARIO FERNANDO ROBAYO RESTREPO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "SIMULACIÓN DEL COMPORTAMIENTO DE CAZA ENTRE UN DEPREDADOR Y UNA PRESA IMPLEMENTADO CON PLATAFORMAS LEGO NXTColombia, Vínculos ISSN: 1794-211X, 2013 vol:10 fasc: 1 págs: 86 - 95, DOI:10.14483/2322939X.4706Autores: KRISTEL SOLANGE NOVOA ROLDAN, HECTOR IVAN TANGARIFE, RHONIER ERNESTO MACHADO MOSQUERA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "DESARROLLO DE UN SISTEMA DE CONTROL REACTIVO PARA UN ROBOT ENFOCADO EN TAREAS DE BÚSQUEDA DE FUENTES DE CALORColombia, Vínculos ISSN: 1794-211X, 2013 vol:10 fasc: 1 págs: 63 - 73, DOI:10.14483/2322939X.4686Autores: KRISTEL SOLANGE NOVOA ROLDAN, EDWIN ANDRES BELTRAN GONZALEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Pruebas subjetivas de audio-codecs durante el periodo 2010-2012 en la Universidad de San Buenaventura, BogotáColombia, Ingenium ISSN: 0124-7492, 2013 vol:14 fasc: 27 págs: 66 - 73, DOI:Autores: MIGUEL RICARDO PEREZ PEREIRA, DARIO PAEZ, MARCELO HERRERA MARTINEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Localización de un robot móvil tipo lego con el filtro de KalmanColombia, Vínculos ISSN: 1794-211X, 2013 vol:10 fasc: 1 págs: 41 - 49, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, LEIDY YOLANDA LOPEZ OSORIO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Implementation of kalman filter for the indoor location system of a lego nxt mobile robotColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2013 vol:8 fasc: N/A págs: 125 - 133, DOI:Autores: LEIDY YOLANDA LOPEZ OSORIO, MIGUEL RICARDO PEREZ PEREIRA, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "IMPLEMENTACIÓN DEL FILTRO DE KALMAN PARA LA LOCALIZACIÓN DE UN ROBOT MÓVIL TIPO LEGO NXT EN LABVIEWColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc: N/A págs: 68 - 75, DOI:Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "MODELO CINEMÁTICO DE UN ROBOT MÓVIL IMPLEMENTADO CON LEGO NXT PARA UN SISTEMA DE LOCALIZACIÓN INDOOR DISEÑADO EN LABVIEWColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc: N/A págs: 23 - 33, DOI:Autores: LEIDY YOLANDA LOPEZ OSORIO, EDWIN ANDRES BELTRAN GONZALEZ, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, JONATHAN EDUARDO CRUZ ORTIZ, MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Corto (Resumen)",
+            "descripcion": "Editorial en Revista tecnuraColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc: N/A págs: 8 - 10, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Corto (Resumen)",
+            "descripcion": "Editorial en Revista tecnuraColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc: N/A págs: 11 - 13, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Diseño e implementación de un sistema para el desplazamiento en forma de convoy de plataformas móviles MindStorm NXT 2.0 de LegoColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc: N/A págs: 44 - 54, DOI:10.14483/22487638.6812Autores: WILLSON INFANTE MORENO, CHISTIAN A MANCIPE"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Control digital para procesamiento análogo de audioColombia, Ingenium ISSN: 0124-7492, 2012 vol:13 fasc: 26 págs: 30 - 37, DOI:Autores: MIGUEL RICARDO PEREZ PEREIRA, WILLIAN ROMO, MIJAIL A POSADA G"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Modelo cinemático de un robot móvil implementado con LEGO NXT para un sistema de localización indoor diseñado en LabVIEWColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc: NA págs: 23 - 33, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA, EDWIN ANDRES BELTRAN GONZALEZ, JONATHAN EDUARDO CRUZ ORTIZ, LEIDY YOLANDA LOPEZ OSORIO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Modelo Cinemático de un Robot Móvil implementado con Lego Nxt para un sistema de localización indoor diseñado en LabviewColombia, Tecnura ISSN: 0123-921X, 2012 vol:16 fasc:págs: 23 - 33, DOI:Autores: MIGUEL RICARDO PEREZ PEREIRA, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, EDWIN A BELTRAN GONZALEZ, JONATHAN E CRUZ ORTIZ, LEIDY Y LOPEZ OSORIO, LEIDY YOLANDA LOPEZ OSORIO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "DISEÑO DE UN DIRIGIBLE HÍBRIDO E IMPLEMENTACIÓN EN LA AVIÓNICAEspaña, Memorias ISSN: 1794-8886, 2011 vol:12 fasc: N/A págs: 33 - 39, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, JULIO CESAR PRADA, JOSE MIGUEL BENAVIDEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Busqueda y transporte de objetos con plataformas bioinspiradas tipo LEGO en un ambiente conocidoEstados Unidos, Memorias ISSN: 0124-4361, 2011 vol:1 fasc: N/A págs: 115 - 120, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, LEIDY YOLANDA LOPEZ, DUVAN BENAVIDEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Implementación de una red inalámbrica en el desarrollo de plataformas robóticas cooperantesEstados Unidos, Memorias ISSN: 0124-4361, 2010 vol:1 fasc: N/A págs: 70 - 74, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, DIEGO VARELA, CRISTHIAN RIOS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Wireless communications in hostile atmospheres: radio propagation model and response of constituent elements of the radio front-end at high temperaturesColombia, Revista Facultad de Ingenieria ISSN: 0120-6230, 2010 vol:53 fasc: N/A págs: 205 - 213, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, JUAN CARLOS BOHORQUEZ, NESTOR MISAEL PENA TRASLAVINA, JUAN CARLOS BOHORQUEZ REYES"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "DETERMINACIÓN DE PARAMETROS DE UN ROBOT MÓVIL DE LEGO MINDSTORMS®Colombia, Ingeniería, Investigación Y Desarrollo ISSN: 1900-771X, 2008 vol:5 fasc: 1 págs: 28 - 32, DOI:Autores: MARIA LUISA PINTO SALAMANCA, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "ESTUDIO Y MODELADO DE UNA PLATAFORMA ROBÓTICA MÓVIL DIFERENCIALColombia, Ingeniería, Investigación Y Desarrollo ISSN: 1900-771X, 2008 vol:5 fasc: 1 págs: 20 - 24, DOI:Autores: MARIA LUISA PINTO SALAMANCA, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "DESARROLLO E IMPLEMENTACIÓN DE UN SISTEMA DE TELEOPERACIÓN UTILIZANDO LEGO MINDSTORMSColombia, Tecnura ISSN: 0123-921X, 2008 vol:22 fasc: N/A págs: 84 - 93, DOI:Autores: DORA LILIA CASTANEDA TIBAQUIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "DESARROLLO E IMPLEMENTACIÓN DE UN SISTEMA DE TELEOPERACIÓN UTILIZANDO LEGO MINDSTORMSColombia, Tecnura ISSN: 0123-921X, 2008 vol:22 fasc: N/A págs: 84 - 93, DOI:Autores: DORA LILIA CASTANEDA TIBAQUIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Determinación de parámetros de un robot móvil de LEGO Mindstorms®Colombia, Ingeniería, Investigación Y Desarrollo ISSN: 1900-771X, 2007 vol:5 fasc: 2 págs: 7 - 13, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Estudio y modelado de una plataforma robótica móvil diferencialColombia, Ingeniería, Investigación Y Desarrollo ISSN: 1900-771X, 2007 vol:5 fasc: 2 págs: 63 - 69, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Sistema de deteccion de victimas en zonas colapsadas simuladas, implementado sobre una plataforma experimental movil tipo LEGOEstados Unidos, 6ta Conferencia Iberoamericana en Sistemas, Cibernética e Informática ISSN: 93422035, 2007 vol:1 fasc:págs: 199 - 204, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, WLLSON INFANTE"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "SEMIAUTOMATIZACION DEL PROCESO DE CORTE POR OXIACETILENOColombia, Tekhne ISSN: 1692-8407, 2005 vol:4 fasc:págs: 20 - 29, DOI:Autores: EDWARD HERNANDO BEJARANO BARRETO, JULIE ANGELICA MUNOZ CASTELBLANCO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "La robótica en actividades de búsqueda y rescate urbano. Origen, actualidad y perspectivas.Colombia, Tecnura ISSN: 0123-921X, 2005 vol:01 fasc: 15 págs: 97 - 108, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, WILLSON INFANTE MORENO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "La robotica en actividades de busqueda y rescte urbano, origen, actualidad y perspectivasColombia, Tecnura ISSN: 0123-921X, 2005 vol:01 fasc: 15 págs: 97 - 108, DOI:Autores: WILLSON INFANTE MORENO, KRISTEL SOLANGE NOVOA ROLDAN, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "La robotica en actividades de busqueda y rescate ubano: origen, actualidad y perspectivasColombia, Tecnura ISSN: 0123-921X, 2004 vol:8 fasc: 15 págs: 97 - 108, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, KRISTEL SOLANGE NOVOA ROLDAN, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Diseño de un prototipo para la estructura motriz de extremidad de miembro superior ERMOColombia, Tekhne ISSN: 1692-8407, 2004 vol:1 fasc: 4 págs: 16 - 24, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, OSCAR ALEXANDER GARZON GONZALES, SONIA MILENA VARGAS CASA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Aplicación del método de campos de potenciales artificiales para un robot móviles autónomoColombia, Tecnura ISSN: 0123-921X, 2004 vol:7 fasc: 14 págs: 86 - 96, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, LUIS ALEJANDRO ROJAS CASTELAR, HOLMAN MONTIEL ARIZA, MARCO ANTONIO CEBALLOS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Identificacion de formas geometricas y colores mediante procesamiento y reconocimiento de imagenesColombia, Tekhne ISSN: 1692-8407, 2004 vol:2 fasc: 1 págs: 9 - 17, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA, JORGE ARIEL DIAZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Modelamiento Cinemático y Odométrico de Robots Móviles: Aspectos MatemáticosColombia, Tecnura ISSN: 0123-921X, 2003 vol:6 fasc: 12 págs: 19 - 30, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Circuitos impresos aplicaciones y algunas experienciasColombia, Visión Electrónica: Algo Más Que Un Estado Sólido ISSN: 1909-9746, 2002 vol:06 fasc: 11 págs: 18 - 26, DOI:10.14483/22487638.6127Autores: WILLSON INFANTE MORENO, KRISTEL SOLANGE NOVOA ROLDAN"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Circuitos Impresos, Aplicaciones y algunas experianciasColombia, Tecnura ISSN: 0123-921X, 2002 vol:01 fasc: 11 págs: 18 - 26, DOI:Autores: KRISTEL SOLANGE NOVOA ROLDAN, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Robots móviles: Aplicaciones, Teoría y ExperienciasColombia, Tecnura ISSN: 0123-921X, 2002 vol:5 fasc: 10 págs: 6 - 17, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Publicado en revista especializada",
+            "descripcion": "Los problemas en tecnología: Una propuesta metodológicaColombia, Tecnura ISSN: 0123-921X, 2001 vol:5 fasc: 9 págs: 68 - 79, DOI:Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, HARVEY GOMEZ"
+        }
+    ],
+    " Libros publicados ": [
+        {
+            "verificacion": false,
+            "tipo": "Libro resultado de investigación",
+            "descripcion": " MULTIBOT Robótica aplicada al rescate urbanoColombia, 2017, ISBN: 978-958-5434-85-1, Ed. Editorial UD (Editorial Universidad Distrital Francisco José de Caldas)Autores: MIGUEL RICARDO PEREZ PEREIRA, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, JOSE DANILO RAIRAN ANTOLINES"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Libro resultado de investigación",
+            "descripcion": " Multibot: robótica aplicada al rescate urbanoColombia, 2017, ISBN: 978-958-5434-85-1, Ed. Editorial UD (Editorial Universidad Distrital Francisco José de Caldas)Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA, JOSE DANILO RAIRAN ANTOLINES"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Libro resultado de investigación",
+            "descripcion": " Estudio, Diseño E Implementación De Una Red Industrial Para Robot FirebotColombia, 2011, ISBN: 978-958-8723-32-7, Ed. Fondo De Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: ENRIQUE YAMID GARZON GONZALEZ, ESPERANZA CAMARGO CASALLAS, EDWARD HERNANDO BEJARANO BARRETO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Libro resultado de investigación",
+            "descripcion": " Estudio, Diseño E Implementación De Una Red Industrial Para Robot FirebotColombia, 2010, ISBN: 978-958-8723-32-7, Ed. Fondo De Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: EDWARD HERNANDO BEJARANO BARRETO"
+        }
+    ],
+    "Capítulos de libro publicados ": [
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Implementación de Comportamiento Animal a través de Vehículos BraitenbergEstados Unidos, 2021, Vigésima Conferencia Iberoamericana en sistemas, Cibernética e informatica CISCI 2021 - LIBRO DE MEMORIAS, ISBN: 978-1-950492-59-6, Vol. , págs:174 - 179, Ed. INTERNATIONAL INSTITUTE OF INFORMATICS AND SYSTEMICSAutores: NATALY RODRIGUEZ GARCIA, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " ¿CULTIVOS REMOTOS: ESTUDIO DE CASO DE SUPERVISIÓN DE VARIABLES CRÍTICASColombia, 2020, XV CONGRESO INTERNACIONAL DE ELECTRÓNICA CONTROL Y TELECOMUNICACIONES- LIBRO DE MEMORIAS, ISBN: 978-958-44-5254-2, Vol. , págs:715 - 736, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: KRISTEL SOLANGE NOVOA ROLDAN, FABIAN CAMILO CASTANEDA ARIAS"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Guante de control basado en orientación angular.Colombia, 2020, CIECT XV - Libro de memorias, ISBN: 978-958-44-5254-2, Vol. , págs:799 - 822, Ed. Fondo Editorial Universidad Distrital Francisco Jose De CaldasAutores: SANTIAGO VERGARA TORRES"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Guante de control basado en orientación angular.Colombia, 2020, XV CONGRESO INTERNACIONAL DE ELECTRÓNICA CONTROL Y TELECOMUNICACIONES- LIBRO DE MEMORIAS, ISBN: 978-958-44-5254-2, Vol. , págs:799 - 822, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: KRISTEL SOLANGE NOVOA ROLDAN, SANTIAGO VERGARA TORRES"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Capítulo de libro",
+            "descripcion": " Navegación de robots móviles en formación de convoy, 2019, Libro de memorias XIV CONGRESO INTERNACIONAL DE ELECTRÓNICA CONTROL Y TELECOMUNICACIONES, ISBN: 978-958-44-5254-2, Vol. , págs:179 - 194, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: BRAYAN HUMBERTO RAMIREZ PENA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " NAVEGACIÓN DE ROBOTS MÓVILES EN FORMACION DE CONVOYColombia, 2019, XIV CONGRESO INTERNACIONAL DE ELECTRÓNICA CONTROL Y TELECOMUNICACIONES_ lIBRO DE MEMORIAS, ISBN: 978-958-44-5254-2, Vol. , págs:179 - 194, Ed. Publicaciones Universidad Distrital Francisco Jose De CaldasAutores: BRAYAN HUMBERTO RAMIREZ PENA, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Capítulo de libro",
+            "descripcion": " Simulation in the Farsite of a Forest Fire Presented in the Eastern Hills of the Town of San Cristóbal in BogotáColombia, 2019, Applied Computer Sciences in Engineering, ISBN: 978-3-030-31018-9, Vol. , págs:653 - 663, Ed. Springer Publishing Company, Inc.Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, EVY FERNANDA TAPIAS FORERO"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Comunicación por radiofrecuencia para el robot FIREBOTEstados Unidos, 2010, Novena Conferencia Iberoamericana En Sistemas, Cibernética E Informática. Memorias Volumen Iii, ISBN: 978-1-934272-96-1, Vol. , págs:59 - 64, Ed. International Institute Of Informatics And Systemics IiisAutores: ENRIQUE YAMID GARZON GONZALEZ"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " \"Implementación de una Red Can para Robot Móvil ¿Firebot¿\"Estados Unidos, 2009, Memorias Octava Coferencia Iberoamericana En Sistemas, Cibernética E Informática: Cisci 2009, ISBN: 1-934272-64-7, Vol. , págs:280 - 285, Ed. International Institute Of Informatics And SystemicsAutores: ENRIQUE YAMID GARZON GONZALEZ"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro capítulo de libro publicado",
+            "descripcion": " Sistema de deteccion de victimas en zonas colapsadas simuladas, implementado sobre una plataforma experimental movil tipo LEGOEstados Unidos, 2007, Memorias Séptima Conferencia Iberoamericana EnSistemas, Cibernética E Informática: Cisci 2008, ISBN: 1-934272-03-5, Vol. , págs:199 - 204, Ed. International Institute Of Informatic And Scientic IiisAutores: KRISTEL SOLANGE NOVOA ROLDAN"
+        }
+    ],
+    "Otra publicación divulgativa": [
+        {
+            "verificacion": false,
+            "tipo": "Otra",
+            "descripcion": " MODELO CINEMÁTICO Y DINÁMICO DEL ROBOT MÓVIL \"USARBOT\" IMPLEMENTADO EN EL KIT MINDSTORM NXT 2.0 DE LEGO, 2012, , , vol.,págs: , - Kristel Solange Novoa Roldán, Ed. Autores: JOSE LEON LEON, KRISTEL SOLANGE NOVOA ROLDAN"
+        }
+    ],
+    "Otros artículos publicados": [
+        {
+            "verificacion": true,
+            "tipo": "Revista de divulgación",
+            "descripcion": " ALGORITMO DE ALINEACIÓN DE SECUENCIAS PARA ENFERMEDADES DEL SISTEMA NERVIOSO CENTRALColombia, Revista Teckne ISSN: 1909-793X, 2017 vol:15 fasc: 2 págs: 51 - 59Autores: LEIDY YOLANDA LOPEZ OSORIO, GUSTAVO ADOLFO HIGUERA CASTRO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Periódico de noticias",
+            "descripcion": " DISEÑO DE UNA RED IPV6 EN LA EMPRESA SIETE24 LTDAColombia, Revista Teckne ISSN: 1909-793X, 2017 vol:15 fasc: 1 págs: 44 - 54Autores: GUSTAVO ADOLFO HIGUERA CASTRO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Revista de divulgación",
+            "descripcion": " ALGORITMO DE ALINEACIÓN DE SECUENCIAS PARA ENFERMEDADES DEL SISTEMA NERVIOSO CENTRALColombia, Revista Teckne ISSN: 1909-793X, 2017 vol:15 fasc:págs: 51 - 59Autores: LEIDY YOLANDA LOPEZ OSORIO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Revista de divulgación",
+            "descripcion": " Simulación del flujo de pasajeros en el sistema de transporte masivo Transmilenio S.A., dentro de la calle 100 en una hora picoMéxico, Tlamati Sabiduria ISSN: 2007-2066, 2016 vol:7 fasc:págs: 276 - 282Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, EVY FERNANDA TAPIAS FORERO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Revista de divulgación",
+            "descripcion": " Estructura comportamental de la araña lobo hembra en STATEFLOW de MATLABMéxico, Tlamati Sabiduria ISSN: 2007-2066, 2016 vol:7 fasc: 3 págs: 30 - 34Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Revista de divulgación",
+            "descripcion": " Estructura comportamental de la araña lobo hembra en STATEFLOW de MATLAB.México, Tlamati Sabiduria ISSN: 2007-2066, 2016 vol:7 fasc: 3 págs: 30 - 34Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, SANDRA MILENA MENDEZ FURQUE"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Revista de divulgación",
+            "descripcion": " Monitoreo de la temperatura y la humedad relativa con el sensor SHT71 y el robot DANI 2.0México, Tlamati Sabiduria ISSN: 2007-2066, 2014 vol:5 fasc:págs: 302 - 306Autores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA"
+        }
+    ],
+    " Libros de divulgación y/o Compilación de divulgación": [
+        {
+            "verificacion": false,
+            "tipo": "Libros de divulgación y/o Compilación de divulgación",
+            "descripcion": " De Sierra Morena Alta A Candelaria La Nueva, 8 Años De La Facultad TecnologicaColombia,2004, ISBN: 978-958-8175-66-9, Ed. Publicaciones Universidad DistritalAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        }
+    ],
+    "Informes técnicos": [
+        {
+            "verificacion": true,
+            "tipo": "Reacondicionamiento y puesta en funcionamiento de Armamento Eagle eye Ejercito Nacional de Colombia",
+            "descripcion": "Año: 2004, Mes: 1, Idioma: Español, Ciudad: BOGOTÁ, D.C.Disponibilidad: Restricta, Número de páginas: 0, Número del contrato: , Institución en la cual prestó el servicio: Fuerzas Armadas de Colombia"
+        }
+    ],
+    "Otros productos tecnológicos": [
+        {
+            "verificacion": false,
+            "tipo": "Otro",
+            "descripcion": " Robot para la Detección de focos de Incendio \"FLAMEBOT\"Colombia, 2002, Disponibilidad: Irrestricta, Nombre comercial:Institución financiadora: Paulo José Sierra LUnaAutores: PAULO JOSE SIERRA LUNA, GIOVANNI BERMUDEZ BOHORQUEZ"
+        }
+    ],
+    "Prototipos": [
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " Guante de control basado en orientación angularColombia, 2020, Disponibilidad: No restringido, Institución financiadora: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaAutores: SANTIAGO VERGARA TORRES"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Servicios",
+            "descripcion": " Implementación de comportamiento animal a través de vehículos BraitenbergColombia, 2020, Disponibilidad: Restringido, Institución financiadora: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaAutores: NATALY RODRIGUEZ GARCIA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " Plataforma móvil FIREBOTColombia, 2010, Disponibilidad: No restringido, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, KRISTEL SOLANGE NOVOA ROLDAN, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " Plataforma móvil USARBOTColombia, 2008, Disponibilidad: Restringido, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: WILLSON INFANTE MORENO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, KRISTEL SOLANGE NOVOA ROLDAN"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " Plataforma bipeda - CHIRUColombia, 2004, Disponibilidad: Irrestricta, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, OSWALDO ZAMBRANO, ABELARDO NAVA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " Plataforma móvil - ROMABOTColombia, 2003, Disponibilidad: Restringido, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, HOLMAN MONTIEL ARIZA, MARCO ANTONIO CEBALLOS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " Tunder thipColombia, 2003, Disponibilidad: Restringido, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, LEONARDO HENRNADEZ, ADRIANA BOLANOS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " FlamebotColombia, 2003, Disponibilidad: Restringido, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, PAULO JOSE SIERRA LUNA, PAULO SIERRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Industrial",
+            "descripcion": " MinotauroColombia, 2002, Disponibilidad: Restringido, Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, LEONARDO HERNANDEZ, JORGE DIAZ, HOLMAN MONTIEL ARIZA, MIGUEL RICARDO PEREZ PEREIRA"
+        }
+    ],
+    "Softwares ": [
+        {
+            "verificacion": true,
+            "tipo": "Computacional",
+            "descripcion": " Sistema de Informacion ICAROColombia, 2013, Disponibilidad: Restringido, Sitio web: http://chronos.udistrital.edu.co:8095/Icaro/index.html Nombre comercial: ICARO, Nombre del proyecto: Dirección Nacional de Derechos de AutorInstitución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, JEISSON ALEXANDER HERNANDEZ GUERRERO, ANDRES FELIPE MORA MORA, EDGAR ALIRIO AGUIRRE BUENAVENTURA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Computacional",
+            "descripcion": " Simulación de sistemas multiagente basado en MDP aplicado a robotica colaborativaColombia, 2009, Disponibilidad: Restringido, Sitio web:Nombre comercial: Simulación de sistemas multiagente basado en MDP aplicado a robotica colaborativa, Nombre del proyecto: Registro Nacional de Derecho de AutorInstitución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: JUDY CAROLINA GUEVARA AMAYA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Computacional",
+            "descripcion": " Simulación de sistemas multiagente basado en MDP aplicado a robotica colaborativaColombia, 2009, Disponibilidad: Restringido, Sitio web: http://virtual.udistrital.edu.co/roma Nombre comercial: Simulación de sistemas multiagente basado en MDP aplicado a robotica colaborativa, Nombre del proyecto: Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Computacional",
+            "descripcion": " Software de simulacion y manipulacion para el robot mitsubishi movemaster EX RV-M1Colombia, 2005, Disponibilidad: Restringido, Sitio web: http://virtual.udistrital.edu.co/roma/ Nombre comercial: robot mitsubishi movemaster EX RV-M1, Nombre del proyecto: Institución financiadora: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, JONATHAN TABORDA PINTO, MARLON MORENO MOLINA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Computacional",
+            "descripcion": " Procesamiento de curvas carga Vs elongaciónColombia, 2003, Disponibilidad: Restrita, Sitio web:Nombre comercial: , Nombre del proyecto: Institución financiadora: Autores: JOHN FREDY VALCARCEL QUITIAN"
+        }
+    ],
+    "Eventos Científicos": [
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XV CONGRESO INTERNACIONAL DE ELECTRÓNICA CONTROL Y TELECOMUNICACIONES BOGOTÁ, D.C., desde 2020-11-26 - hasta 2020-11-27 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " CONGRESO INTERNACIONAL DE ELECTRÓNICA, CONTROL Y TELECOMUNICACIONES-CIECT XV BOGOTÁ, D.C., desde 2020-11-26 - hasta 2020-11-27 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " CONGRESO INTERNACIONAL DE ELECTRÓNICA, CONTROL Y TELECOMUNICACIONES-CIECT XV BOGOTÁ, D.C., desde 2020-11-26 - hasta 2020-11-27 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " II Congreso Internacional de Jóvenes Investigadores para la sociedad Colombiana de Investigación e Innovación Formativa SCOIF BOGOTÁ, D.C., desde 2020-05-20 - hasta 2020-05-23 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: INSTITUCIÓN UNIVERSITARIA POLITÉCNICO GRANCOLOMBIANOTipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " congreso Internacional de Electrónica, Control y Telecomunicaciones ¿ CIECT XIV BOGOTÁ, D.C., desde 2019-11-18 - hasta 2019-11-19 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " Congreso Internacional de Control, Electrónica y Telecomunicaciones - CIECT BOGOTÁ, D.C., desde 2019-11-18 - hasta 2019-11-19 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XIV congreso internacional de electrónica, control y telecomunicaciones presentando la investigación. BOGOTÁ, D.C., desde 2019-11-06 - hasta 2019-11-08 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Congreso",
+            "descripcion": " Encuentro Internacional de Educación en Ingeniería ACOFI 2019 CARTAGENA DE INDIAS, desde 2019-09-10 - hasta 2019-09-13 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Simposio",
+            "descripcion": " Representar a la universidad en el XVII encuentro regional de semilleros de investigación BOGOTÁ, D.C., desde 2019-05-08 - hasta 2019-05-10 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad Autónoma De ColombiaTipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XIII Congreso internacional de electrónica control y telecomunicaciones CIECT BOGOTÁ, D.C., desde 2018-11-06 - hasta 2018-11-08 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XIII Congreso internacional de Electrónica Control y Telecomunicaciones CIECT 2018 BOGOTÁ, D.C., desde 2018-11-06 - hasta 2018-11-08 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XIII Congreso Internacional de Electrónica, Control y Telecomunicaciones BOGOTÁ, D.C., desde 2018-11-06 - hasta 2018-11-08 Ámbito: Internacional, Tipos de participación: Compilador de memorias , Organizador , Ponente Magistral Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " Primer concurso internacional de Robótica USCCALI, desde 2017-10-25 - hasta 2017-10-26 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD SANTIAGO DE CALITipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XII Congreso Internacional de Computación CICOM 2017 y XVII Jornada Académica en Inteligencia Artificial BOGOTÁ, D.C., desde 2017-09-28 - hasta 2017-09-30 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XII Congreso internacional de electrónica control y telecomunicaciones CIECT BOGOTÁ, D.C., desde 2017-09-26 - hasta 2017-09-27 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XII Congreso internacional de Electrónica Control y Telecomunicaciones CIECT 2017 BOGOTÁ, D.C., desde 2017-09-26 - hasta 2017-09-27 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XII Congreso Internacional de Electrónica, Control y Telecomunicaciones BOGOTÁ, D.C., desde 2017-09-26 - hasta 2017-09-27 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XXXVIII Jornadas de Automática Gijón, desde 2017-09-06 - hasta 2017-09-08 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad de Oviedo - EspañaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XI Congreso internacional de electrónica control y telecomunicaciones CIECT BOGOTÁ, D.C., desde 2015-11-11 - hasta 2015-11-13 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XI Congreso internacional de Electrónica Control y Telecomunicaciones CIECT 2015 BOGOTÁ, D.C., desde 2015-11-11 - hasta 2015-11-13 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XI Congreso Internacional de Electrónica, Control y Telecomunicaciones BOGOTÁ, D.C., desde 2015-11-11 - hasta 2015-11-13 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " X Congreso internacional de electrónica control y telecomunicaciones CIECT BOGOTÁ, D.C., desde 2014-11-12 - hasta 2014-11-14 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " X Congreso internacional de Electrónica Control y Telecomunicaciones CIECT 2014 BOGOTÁ, D.C., desde 2014-11-12 - hasta 2014-11-14 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " X Congreso Internacional de Electrónica, Control y Telecomunicaciones BOGOTÁ, D.C., desde 2014-11-12 - hasta 2014-11-14 Ámbito: Internacional, Tipos de participación: Organizador , Ponente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Encuentro",
+            "descripcion": " Encuentro Nacional de la Semana Nacional de la CTeI BOGOTÁ, D.C., desde 2014-10-28 - hasta 2014-10-30 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución:Tipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " Congreso Internacional de Computación CICOM 2014 Acapulco, desde 2014-10-02 - hasta 2014-10-04 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " XII Encuentro Regional de Semilleros de Investigación BOGOTÁ, D.C., desde 2014-05-08 - hasta 2014-05-10 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Fundacion Red Colombiana de Semilleros de Investigacion RedColsi - Nodo BogotaTipo de vinculación PatrocinadoraNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " IX CONGRESO INTERNACIONAL DE ELECTRONICA, CONTROL Y TELECOMUNICACIONES BOGOTÁ, D.C., desde 2013-11-13 - hasta 2013-11-15 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " IX CONGRESO INTERNACIONAL DE ELECTRÓNICA CONTROL Y TELECOMUNICACIONES BOGOTÁ, D.C., desde 2013-11-13 - hasta 2013-11-15 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " II Congreso Internacional Ingeniería Mecatrónica y AutomatizaciónMEDELLÍN, desde 2013-10-23 - hasta 2013-10-25 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Universidad de La SalleTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " II congreso de investigación de la facultad tecnológicaBOGOTÁ, D.C., desde 2013-10-10 - hasta 2013-10-11 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " XVI Encuentro Nacional y X Internacional de Semilleros de Investigación MONTERÍA, desde 2013-10-10 - hasta 2013-10-13 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Otro",
+            "descripcion": " V muestra interactiva \"investigación visible\" BOGOTÁ, D.C., desde 2013-10-09 - hasta 2013-10-09 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " VI encuentro de grupos y semilleros de investigaciónBOGOTÁ, D.C., desde 2013-10-03 - hasta 2013-10-03 Ámbito: Nacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " CICOM 2013 El Tercer Congreso Internacional de Computación México-Colombia y XIV Jornada Académica en Inteligencia Artificial CARTAGENA DE INDIAS, desde 2013-09-18 - hasta 2013-09-20 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " Duodécima Conferencia Iberoamericana en Sistemas, Cibernética e Informática (CISCI 2013) Florida, desde 2013-07-09 - hasta 2013-07-12 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: International Institute of Informatics and SystemicsTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " V Encuentro de Semilleros de Investigación de la Facultad Tecnológica BOGOTÁ, D.C., desde 2013-05-24 - hasta 2013-05-24 Ámbito: Nacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Otro",
+            "descripcion": " 2da Conferencia Internacional en ciencias computacionales e informáticas La Habana, desde 2013-03-18 - hasta 2013-03-22 Ámbito: Nacional, Tipos de participación: Asistente"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Otro",
+            "descripcion": " XV convención y feria internacional Informática 2013 SANTA MARTA, desde 2013-03-18 - hasta 2013-03-22 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Ministerio de comunicacionesTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " V encuentro de grupos y semilleros de investigaciónBOGOTÁ, D.C., desde 2012-11-26 - hasta 2012-11-26 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VIII CONGRESO INTERNACIONAL DE ELECTRÓNICA, CONTROL Y TELECOMUNICACIONES BOGOTÁ, D.C., desde 2012-11-14 - hasta 2012-11-16 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VIII Congreso Internacional de Electrónica Control y Telecomunicaciones BOGOTÁ, D.C., desde 2012-11-14 - hasta 2012-11-16 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VIII Congreso Internacional de Electrónica, Control y Telecomunicaciones BOGOTÁ, D.C., desde 2012-11-12 - hasta 2012-11-14 Ámbito: Internacional, Tipos de participación: Organizador , Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " CWCAS 20124th IEEE Colombian Workshop on Circuits and Systems BARRANQUILLA, desde 2012-11-01 - hasta 2012-11-02 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: FUNDACIÓN UNIVERSIDAD DEL NORTETipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " I congreso de investigación de la facultad tecnológicaBOGOTÁ, D.C., desde 2012-10-11 - hasta 2012-10-11 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Simposio",
+            "descripcion": " III Jornada de Automatización de la industria petrolera JAIP/ Colombia 2012 BOGOTÁ, D.C., desde 2012-08-15 - hasta 2012-08-17 Ámbito: Nacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: International Society AutomationTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Encuentro",
+            "descripcion": " IV encuentro de semilleros de investigación de la facultad tecnológica BOGOTÁ, D.C., desde 2012-05-25 - hasta 2012-05-25 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " XXXII Jornadas De Automática (JA - 2011) SEVILLA, desde 2011-09-07 - hasta 2011-09-09 Ámbito: Internacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DE SEVILLATipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Otro",
+            "descripcion": " XXXII Jornadas De AutomáticaEscuela Técnica Superior de Ingeniería Sevilla España Sevilla, desde 2011-09-07 - hasta 2011-09-09 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DE SEVILLATipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " Décima Conferencia Iberoamericana enSistemas, Cibernética e Informática: CISCI 2011Orlando FL, desde 2011-07-19 - hasta 2012-07-22 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: International Institute of Informatics and SystemicsTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Congreso",
+            "descripcion": " VI CONGRESO INTERNACIONAL DE ELECTRONICA CONTROL Y TELECOMUNICACIONES BOGOTÁ, D.C., desde 2011-05-19 - hasta 2011-05-21 Ámbito: Nacional, Tipos de participación: Asistente"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VII Congreso Internacional de Electrónica, Control y Telecomunicaciones CIECT 2011 BOGOTÁ, D.C., desde 2011-04-27 - hasta 2011-04-29 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VII Congreso Internacional de Electrónica, Control y Telecomunicaciones CIECT 2011 BOGOTÁ, D.C., desde 2011-04-27 - hasta 2011-04-29 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación PatrocinadoraNombre de la institución: Centro De Investigaciones Y Desarrollo CientíficoTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Congreso",
+            "descripcion": " VII Congreso Internacional de Electrónica, Control y Telecomunicaciones MANIZALES, desde 2011-04-01 - hastaÁmbito: null, Tipos de participación: Asistente"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Otro",
+            "descripcion": " XXXI Jornadas de Automática Jaén 2010 Jaén, desde 2010-09-08 - hasta 2010-09-10 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: UNIVERSIDAD DE JAENTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " Novena Conferencia Iberoamericana en Sistemas Cibernética en Informática CISCI 2010 Orlando FL, desde 2010-06-29 - hasta 2010-07-02 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: International Institute of Informatics and SystemicsTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VI Congreso Internacional de Electrónica, Control y TelecomunicacionesBOGOTÁ, D.C., desde 2010-05-19 - hasta 2010-05-21 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VI Congreso Internacional de Electrónica Control y TelecomunicacionesCIECT 2010 BOGOTÁ, D.C., desde 2010-05-19 - hasta 2010-05-21 Ámbito: Nacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: Universidad Distrital Francisco José De Caldas - Facultad TecnológicaTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VII Conferencia Iberoamericana de Sistemas, Cibernética e Informática Orlando, desde 2008-06-29 - hasta 2008-07-02 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: International Institute of Informatics and SystemicsTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " 3er Congreso de electrónica, Control y telecomunicaciones BOGOTÁ, D.C., desde 2007-08-30 - hasta 2007-08-31 Ámbito: Nacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Otro",
+            "descripcion": " 6ta Conferencia Iberoamericana en Sistemas,Cibernética e Informática Florida, desde 2007-07-12 - hasta 2007-07-15 Ámbito: Internacional, Tipos de participación: Asistente Instituciones asociadasNombre de la institución: International Institute of Informatics and SystemicsTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VI Conferencia Iberoamericana en Sistemas, Cibernética e Informática Orlando, desde 2007-06-12 - hasta 2007-06-15 Ámbito: Internacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: International Institute of Informatics and SystemicsTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VI Jornadas de la ACA IBAGUÉ, desde 2005-04-06 - hasta 2005-04-08 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: UNIVERSIDAD DEL TOLIMATipo de vinculación Gestionadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " Congreso Nacional de la Asociación Colombiana de Automática (ACA) IBAGUÉ, desde 2004-11-11 - hasta 2004-11-13 Ámbito: Nacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: ACATipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Seminario",
+            "descripcion": " X semana Tecnologica BOGOTÁ, D.C., desde 2004-11-02 - hasta 2004-11-05 Ámbito: Nacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDASTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " VI congreso nacional de la Asociacion Colombiana de Automática IBAGUÉ, desde 2004-04-13 - hastaÁmbito: Nacional, Tipos de participación: Organizador Instituciones asociadasNombre de la institución: UNIVERSIDAD DE IBAGUÉTipo de vinculación Patrocinadora"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Congreso",
+            "descripcion": " V Jornadas de la ACA MEDELLÍN, desde 2004-03-03 - hasta 2004-03-05 Ámbito: Nacional, Tipos de participación: Ponente Instituciones asociadasNombre de la institución: Servicio Nacional de Aprendizaje Sena Sede CaliTipo de vinculación PatrocinadoraNombre de la institución: UNIVERSIDAD EAFITTipo de vinculación Gestionadora"
+        }
+    ],
+    "Informes de investigación": [
+        {
+            "verificacion": false,
+            "tipo": "Informes de investigación",
+            "descripcion": " Diseño e implementación de agentes robots, actuando de manera cooperativa, en una zona colapsada simulada, como apoyo a organismos de búsqueda y rescate urbano2014, Proyecto de investigación: Diseño e implementación de agentes robots, actuando de manera cooperativa, en una zona colapsada simulada, como apoyo a organismos de búsqueda y rescate urbanoAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": false,
+            "tipo": "Informes de investigación",
+            "descripcion": " Laboratorio virtual para el mejoramiento de la enseñanza de la robótica móvil implementado sobre la plataforma e-learning Moodle - Virtuabot2014, Proyecto de investigación: Laboratorio virtual para el mejoramiento de la enseñanza de la robótica móvil implementado sobre la plataforma e-learning Moodle - VirtuabotAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, ADRIANA NOGUERA ROJAS, JUAN CARLOS GUEVARA BOLANOS"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " DESARROLLO DE UN SISTEMA DE FUSIÓN SENSORIAL IMPLEMENTADO SOBRE LA TARJETA SINGLE BOARD SBRIO 9632, QUE PERMITA EL MONITOREO DE LAS CONDICIONES AMBIENTALES EN UN ENTORNO2014, Proyecto de investigación: DESARROLLO DE UN SISTEMA DE FUSIÓN SENSORIAL IMPLEMENTADO SOBRE LA TARJETA SINGLE BOARD SBRIO 9632, QUE PERMITA EL MONITOREO DE LASCONDICIONES AMBIENTALES EN UN ENTORNOAutores: LEIDY YOLANDA LOPEZ OSORIO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Desarrollo de Algoritmos para la Coordinación de un sistema Multirobot cooperativo para tareas de búsqueda y localización de fuentes de calor en entornos dinámicos2014, Proyecto de investigación: Desarrollo De Algoritmos Para La Coordinación De Un Sistema Multirobot Cooperativo Para Tareas De Búsqueda Y Localización De Fuentes De Calor En Entornos DinámicosAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Informe de Trabajo Auxiliar de Investigación periodo 2013-II Grupo de Investigación ROMA2013, Proyecto de investigación: Desarrollo de un sistema multiagente mediante la implementación de algoritmos cooperativos, aprendizaje por refuerzo basado en emociones humanas y sistemas bioinspirados, que permita obtener un equipo de rescate urbano que facilite las operaciones en laAutores: AMED ESTEBAN VANEGAS GUZMAN"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " ALGORITMO DE DETECCIÓN DE OBSTÁCULOS, BASADO EN SEGMENTACIÓN DE IMÁGENES CON CÁMARA ABORDO EN EL ROBOT DANI 2.02013, Proyecto de investigación: ALGORITMO DE DETECCIÓN DE OBSTÁCULOS, BASADO EN SEGMENTACIÓN DE IMÁGENES CON CÁMARA ABORDO EN EL ROBOT DANI 2.0Autores: AMED ESTEBAN VANEGAS GUZMAN, MIGUEL RICARDO PEREZ PEREIRA, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Desarrollo de un sistema multiagente mediante la implementación de algoritmos cooperativos, aprendizaje por refuerzo basado en emociones humanas y sistemas bioinspirados, que permita obtener un equipo de rescate urbano que facilite las operaciones en la atención de emergencias2013, Proyecto de investigación: Desarrollo de un sistema multiagente mediante la implementación de algoritmos cooperativos, aprendizaje por refuerzo basado en emociones humanas y sistemas bioinspirados, que permita obtener un equipo de rescate urbano que facilite las operaciones en laAutores: LEIDY YOLANDA LOPEZ OSORIO, AMED ESTEBAN VANEGAS GUZMAN, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Informe de Trabajo Auxiliar de Investigación periodo 2013-I Grupo de Investigación ROMA2013, Proyecto de investigación: Desarrollo de un sistema multiagente mediante la implementación de algoritmos cooperativos, aprendizaje por refuerzo basado en emociones humanas y sistemas bioinspirados, que permita obtener un equipo de rescate urbano que facilite las operaciones en laAutores: AMED ESTEBAN VANEGAS GUZMAN"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Diseño e implementación de agentes robots, actuando de manera cooperativa, en una zona colapsada simulada, como apoyo a organismos de búsqueda y rescate urbano2012, Proyecto de investigación: Diseño e implementación de agentes robots, actuando de manera cooperativa, en una zona colapsada simulada, como apoyo a organismos de búsqueda y rescate urbanoAutores: LEIDY YOLANDA LOPEZ OSORIO, GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MIGUEL RICARDO PEREZ PEREIRA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Comunicaciones inalámbricas en ambientes hostiles: modelo de radio propagación y respuesta de elementos constitutivos de la parte terminal de la cadena de radio altas temperaturas2011, Proyecto de investigación: Comunicaciones inalámbricas en ambientes hostiles: modelo de radio propagación y respuesta de elementos constitutivos de la parte terminal de la cadena de radio altas temperaturasAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, JORGE AVELLA CASTIBLANCO, JUAN CARLOS BOHORQUEZ"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Estudio y modelado de una plataforma robótica Móvil diferencial construido con el kit LEGO Mindstorms NXT2010, Proyecto de investigación: Estudio y modelado de una plataforma robótica Móvil diferencial construida usando el kit LEGO Mindstorms NXTAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, MARIA LUISA PINTO SALAMANCA"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Estudio, diseño e implementación de un robot para la detección de focos de incendio en zonas de dificil acceso como apoyo para grupos de rescate2009, Proyecto de investigación: Estudio, diseño e implementación de un robot para la detección de focos de incendio en zonas de difícil acceso como apoyo para grupos de rescateAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, KRISTEL SOLANGE NOVOA ROLDAN, EDWARD HERNANDO BEJARANO BARRETO, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Estudio, diseño e implementación de un sistema de detección de víctimas en zonas colapsadas simuladas e implementado sobre una plataforma tipo Lego, como apoyo para grupos de rescate2009, Proyecto de investigación: Estudio, diseño e implementación de un sistema de detección de victimas en zonas colapsadas simuladas e implementado sobre una plataforma tipo Lego, como apoyo para grupos de rescateAutores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, KRISTEL SOLANGE NOVOA ROLDAN, WILLSON INFANTE MORENO"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Informes de investigación",
+            "descripcion": " Diseño e implementación de una red industrial FIREBOT2009, Proyecto de investigación: Estudio, diseño e implementación de una red industrial para robot (FIREBOT)de detección de focos de incendio en zonas de difícil acceso como apoyo para grupos de rescateAutores: ENRIQUE YAMID GARZON GONZALEZ, ESPERANZA CAMARGO CASALLAS, EDWARD HERNANDO BEJARANO BARRETO"
+        }
+    ],
+    "Redes de Conocimiento Especializado": [
+        {
+            "verificacion": true,
+            "tipo": "ResearchGate",
+            "descripcion": " Virtual en Cambridge, desde 2013-07-04 - hastaNro de participantes: 6"
+        },
+        {
+            "verificacion": true,
+            "tipo": "Red Robótica Latinoamericana",
+            "descripcion": " Virtual en Costa Rica, desde 2012-07-20 - hastaNro de participantes: 4"
+        }
+    ],
+    "Generación de Contenido Multimedia": [
+        {
+            "verificacion": false,
+            "tipo": "Base de datos o repositorio para investigación",
+            "descripcion": " Formación en convoy de robots móviles2020, Colombia, Idioma: Español Medio de divulgación: Electrónico, Sitio web: www.youtube.com Emisora: SCOIF, Instituciones participantes: Autores: BRAYAN HUMBERTO RAMIREZ PENA"
+        }
+    ],
+    "Generación de Contenido Virtual": [
+        {
+            "verificacion": false,
+            "tipo": "Portal",
+            "descripcion": " Espacio Virtual de Aprendizaje del Grupo de Investigación ROMA2012-01-30, Entidades vinculadas: Universidad Distrital Francisco José de Caldas, Sitio web: http://virtual.udistrital.edu.co/roma/ Autores: GIOVANNI RODRIGO BERMUDEZ BOHORQUEZ, KRISTEL SOLANGE NOVOA ROLDAN, WILLSON INFANTE MORENO"
+        }
+    ],
+    "Estrategias de Comunicación del Conocimiento": [
+        {
+            "verificacion": false,
+            "tipo": "Programa radial \"Revista Cientifica\"",
+            "descripcion": " desde Febrero 2008 hasta Noviembre 2010 Descripción: Programa radial \"Revista Científica\" desarrollado en la emisora LAUD Stereo 90.4FM de la Universidad Distrital Francisco José de Caldas que tenía como objetivo principal la divulgación de resultados de las diversas actividades de investigación desarrolladas por la comunidad académica y científica de toda la institución educativa y el distrito capital"
+        }
+    ],
+    "Espacios de Participación Ciudadana": [
+        {
+            "verificacion": false,
+            "tipo": "I Concurso Nacional de Robótica USC ¿ Universidad Distrital Francisco José de Caldas",
+            "descripcion": "en CALI desde 2016-10-26 - hasta 2016-10-27 Número de participantes: 200, Página web: http://www.acofi.edu.co/eventos/primer-concurso-nacional-de-robotica-universidad-santiago-de-cali-universidad-distrital-francisco-jose-de-caldas/"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{{ attach_library('RITA/principal-styling') }}
+ <!-- ======= About Section ======= -->
+    <section id="about" class="about counts">
+      <div class="section-title" data-aos="fade-up">
+        <h2>Sobre Nosotros</h2>
+        <p>{{node.field_introduccion_sobre_nosotro.value}}</p>
+        <div class="container">
+          <div class="row no-gutters">
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <div class="icon-box icon-box-principal w-100">
+                  <div class="icon"><i class="icofont-clock-time"></i></div>
+                </div>
+                <span data-toggle="counter-up">{{node.field_anios.value}}</span>
+                <p><strong>Años</strong> de trayectoria como unidad investigativa de la Universidad Distrital.</p>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <div class="icon-box icon-box-principal w-100">
+                  <div class="icon"><i class="icofont-document-folder"></i></div>
+                </div>
+                <span data-toggle="counter-up">{{node.field_cant_articulos.value}}</span>
+                <p><strong>Grupos de investigación</strong> adscritos actualmente a la unidad de investigación.</p>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <div class="icon-box icon-box-principal w-100">
+                  <div class="icon">
+                    <i class="icofont-read-book"></i>
+                  </div>
+                </div>
+                <span data-toggle="counter-up">{{node.field_cant_trabajos.value}}</span>
+                <p><strong>Semilleros de investigación</strong> adscritos actualmente a la unidad de investigación.</p>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <div class="icon-box icon-box-principal w-100">
+                  <div class="icon">
+                    <i class="icofont-users-alt-5"></i>
+                  </div>
+                </div>
+                <span data-toggle="counter-up">{{node.field_cant_integrantes.value}}</span>
+                <p><strong>Integrantes</strong> activos conformando un grupo interdisciplinario de trabajo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="{{url('<front>') }}SobreNosotros" class="btn-more">Leer más</a>
+      </div>
+    </section><!-- End About Section -->
